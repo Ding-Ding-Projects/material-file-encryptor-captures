@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+  "sourceCommit": "1e16dea8edb66ea5e6cf31009b0dbcc953f18d74",
+  "sourceArtifactSha256": "080cff7a677fb8fcf5b1f8356c26d555231a0028e6a66af6ca461239c2768aec",
+  "packagedArchiveSha256": "7ad75d394dd6711947dbc63e9320913df37b50e55aac3c284bf6098efbadbfdb",
+  "historicalVerification": {
+    "packagedChecksPassed": 70,
+    "capturesReviewed": 73,
+    "publicCaptureCount": 4,
+    "releaseStatusAtReview": "pending",
+    "runtimeAcceptanceOfCurrentRelease": false
+  },
+  "captures": [
+    {
+      "id": "history-preview",
+      "file": "history-preview.png",
+      "sha256": "01bfaec0707df62eeaf2ab72dc123f9c1a7369fc27af37c60eebfeccd6d4a4f6",
+      "screen": "history",
+      "state": "retained-version",
+      "theme": "light",
+      "viewport": { "width": 1180, "height": 752 },
+      "scale": 1.5,
+      "image": { "width": 1770, "height": 1128 },
+      "capturedAt": "2026-10-09T18:00:25.483Z",
+      "timeZone": "UTC"
+    },
+    {
+      "id": "recycle-preview",
+      "file": "recycle-preview.png",
+      "sha256": "cc8bb0501a386226f0e4750657ab96e1b069ec283d0c4b3785e5c7a7b878c852",
+      "screen": "recycle-bin",
+      "state": "deleted-file-available",
+      "theme": "light",
+      "viewport": { "width": 1180, "height": 752 },
+      "scale": 1.5,
+      "image": { "width": 1770, "height": 1128 },
+      "capturedAt": "2026-10-09T18:00:59.669Z",
+      "timeZone": "UTC"
+    },
+    {
+      "id": "descendant-preview",
+      "file": "descendant-preview.png",
+      "sha256": "893bec80cc965b618fca80603aa5d9f0a003b7a3c8f444921bc65bfc1426043d",
+      "screen": "recycle-bin",
+      "state": "explicit-descendant-dialog",
+      "theme": "light",
+      "viewport": { "width": 1180, "height": 752 },
+      "scale": 1.5,
+      "image": { "width": 1770, "height": 1128 },
+      "capturedAt": "2026-10-09T18:03:47.090Z",
+      "timeZone": "UTC"
+    },
+    {
+      "id": "dark-settings-preview",
+      "file": "dark-settings-preview.png",
+      "sha256": "7a28deb679398b6521156d179c8ce7a7fcc643840de34cf5bdd0afa0905904ab",
+      "screen": "settings",
+      "state": "appearance-dark",
+      "theme": "dark",
+      "viewport": { "width": 1180, "height": 752 },
+      "scale": 1.5,
+      "image": { "width": 1770, "height": 1128 },
+      "capturedAt": "2026-10-09T18:06:12.614Z",
+      "timeZone": "UTC"
+    }
+  ],
+  "exclusions": [
+    {
+      "class": "path-bearing original captures and raw task receipts",
+      "reason": "They contain machine-profile details and were not approved for public delivery."
+    },
+    {
+      "class": "newer task captures described as LREOK",
+      "count": 4,
+      "reason": "Source-task review identifies machine paths in the pixels; all four are excluded from public delivery."
+    },
+    {
+      "class": "other captures among the historical reviewed set",
+      "reason": "Only the four captures individually listed above have public-safe inventory records."
+    }
+  ]
+}
