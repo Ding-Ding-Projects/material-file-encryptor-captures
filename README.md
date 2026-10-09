@@ -2,6 +2,8 @@
 
 This gallery preserves four original, reviewed interface captures from the historical packaged build at source commit [`1e16dea8edb66ea5e6cf31009b0dbcc953f18d74`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/1e16dea8edb66ea5e6cf31009b0dbcc953f18d74). They document a past verification run. They do not establish acceptance of the current `v1.19.1` release or its runtime.
 
+The public gallery is deployed at [material-file-encryptor-captures.auroraplume3.chatgpt.site](https://material-file-encryptor-captures.auroraplume3.chatgpt.site/). The GitHub repository About homepage points to that exact URL.
+
 ## Captures
 
 All images are original PNG bytes. Their reviewed pixels, image hashes, source artifact identity, capture dimensions, scale, and validated UTC timestamps are listed in [`docs/gallery/captures.md`](docs/gallery/captures.md) and [`captures/inventory.json`](captures/inventory.json).
@@ -11,7 +13,7 @@ All images are original PNG bytes. Their reviewed pixels, image hashes, source a
 - [Explicit descendant restore dialog](captures/descendant-preview.png)
 - [Dark appearance settings](captures/dark-settings-preview.png)
 
-The historical run recorded 70 passed packaged interface checks and review of 73 captures. Four original images were judged suitable for public viewing. Other path-bearing captures and private receipts are excluded. The status, limits, and exact image hashes are in the inventory; these records are not evidence about a later build.
+The historical run recorded 70 passed packaged interface checks and review of 73 captures. Four original images were judged suitable for public viewing. Other path-bearing captures, generated private announcements, raw receipts, local application archives including `app.asar`, and installers are excluded. The status, limits, and exact image hashes are in the inventory; these records are not evidence about a later build.
 
 ## Build
 

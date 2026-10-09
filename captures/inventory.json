@@ -78,6 +78,18 @@
     {
       "class": "other captures among the historical reviewed set",
       "reason": "Only the four captures individually listed above have public-safe inventory records."
+    },
+    {
+      "class": "generated private announcements",
+      "reason": "They are private announcement materials, not product capture evidence, and are not included in the public archive."
+    },
+    {
+      "class": "raw capture receipts and task evidence files",
+      "reason": "They can expose local machine details or private task metadata and are not required to view the four reviewed images."
+    },
+    {
+      "class": "local application packages, out app.asar archives, and installers",
+      "reason": "They are application packages rather than reviewed interface captures and are not part of this public image archive."
     }
   ]
 }
