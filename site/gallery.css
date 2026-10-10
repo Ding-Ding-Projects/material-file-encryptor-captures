@@ -47,7 +47,7 @@ input[type="search"] { width: 100%; min-height: 2.9rem; padding: .65rem .8rem; b
 .capture-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.3rem; }
 .capture-card { overflow: hidden; border: 1px solid var(--line); border-radius: 1rem; background: var(--surface); box-shadow: 0 .3rem 1.2rem #1723180c; }
 .image-link { display: block; overflow: hidden; background: #e7ebe6; }
-.capture-card img { display: block; width: 100%; height: auto; aspect-ratio: 1770 / 1128; object-fit: cover; transition: transform .25s ease; }
+.capture-card img { display: block; width: 100%; height: auto; max-height: 560px; object-fit: contain; transition: transform .25s ease; }
 .image-link:hover img { transform: scale(1.025); }
 .card-copy { padding: 1.1rem 1.2rem 1.3rem; }
 .card-kicker { color: var(--muted); }

@@ -19,9 +19,15 @@
       "screen": "history",
       "state": "retained-version",
       "theme": "light",
-      "viewport": { "width": 1180, "height": 752 },
+      "viewport": {
+        "width": 1180,
+        "height": 752
+      },
       "scale": 1.5,
-      "image": { "width": 1770, "height": 1128 },
+      "image": {
+        "width": 1770,
+        "height": 1128
+      },
       "capturedAt": "2026-10-09T18:00:25.483Z",
       "timeZone": "UTC"
     },
@@ -32,9 +38,15 @@
       "screen": "recycle-bin",
       "state": "deleted-file-available",
       "theme": "light",
-      "viewport": { "width": 1180, "height": 752 },
+      "viewport": {
+        "width": 1180,
+        "height": 752
+      },
       "scale": 1.5,
-      "image": { "width": 1770, "height": 1128 },
+      "image": {
+        "width": 1770,
+        "height": 1128
+      },
       "capturedAt": "2026-10-09T18:00:59.669Z",
       "timeZone": "UTC"
     },
@@ -45,9 +57,15 @@
       "screen": "recycle-bin",
       "state": "explicit-descendant-dialog",
       "theme": "light",
-      "viewport": { "width": 1180, "height": 752 },
+      "viewport": {
+        "width": 1180,
+        "height": 752
+      },
       "scale": 1.5,
-      "image": { "width": 1770, "height": 1128 },
+      "image": {
+        "width": 1770,
+        "height": 1128
+      },
       "capturedAt": "2026-10-09T18:03:47.090Z",
       "timeZone": "UTC"
     },
@@ -58,26 +76,457 @@
       "screen": "settings",
       "state": "appearance-dark",
       "theme": "dark",
-      "viewport": { "width": 1180, "height": 752 },
+      "viewport": {
+        "width": 1180,
+        "height": 752
+      },
       "scale": 1.5,
-      "image": { "width": 1770, "height": 1128 },
+      "image": {
+        "width": 1770,
+        "height": 1128
+      },
       "capturedAt": "2026-10-09T18:06:12.614Z",
       "timeZone": "UTC"
+    },
+    {
+      "id": "docs-en-light-100",
+      "file": "docs-en-light-100.png",
+      "sha256": "69defb469ffdf6a7d10e6939643c53ccc895033c41ceeff3ea5ad9bdc68804f4",
+      "screen": "documentation-index",
+      "state": "partial-documentation-view",
+      "title": "Documentation index, English, light, 100%",
+      "alt": "Documentation index, English, light, 100%; a partial capture of the documentation page.",
+      "description": "Partial documentation-page sample. The capture run ended before normal closure, so it does not establish full browser acceptance.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "scale": 1,
+      "image": {
+        "width": 1440,
+        "height": 1000
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "b1564bac7cdb6677ff5d9529e65228577d406259",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawDiagnosticsReviewed": true,
+        "fullRunAcceptance": false,
+        "tuple": 0
+      }
+    },
+    {
+      "id": "docs-en-light-125",
+      "file": "docs-en-light-125.png",
+      "sha256": "ec243396215573dc01ea5da648bf2e085312761e65a91905a9c475f0264fa3c9",
+      "screen": "documentation-index",
+      "state": "partial-documentation-view",
+      "title": "Documentation index, English, light, 125%",
+      "alt": "Documentation index, English, light, 125%; a partial capture of the documentation page.",
+      "description": "Partial documentation-page sample. The capture run ended before normal closure, so it does not establish full browser acceptance.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "scale": 1.25,
+      "image": {
+        "width": 1800,
+        "height": 1250
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "b1564bac7cdb6677ff5d9529e65228577d406259",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawDiagnosticsReviewed": true,
+        "fullRunAcceptance": false,
+        "tuple": 1
+      }
+    },
+    {
+      "id": "docs-en-light-150",
+      "file": "docs-en-light-150.png",
+      "sha256": "bde4fe5d220a16a03b925e9ab1e5474066d70a5538d90c698904ea5f14606886",
+      "screen": "documentation-index",
+      "state": "partial-documentation-view",
+      "title": "Documentation index, English, light, 150%",
+      "alt": "Documentation index, English, light, 150%; a partial capture of the documentation page.",
+      "description": "Partial documentation-page sample. The capture run ended before normal closure, so it does not establish full browser acceptance.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "scale": 1.5,
+      "image": {
+        "width": 2160,
+        "height": 1500
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "b1564bac7cdb6677ff5d9529e65228577d406259",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawDiagnosticsReviewed": true,
+        "fullRunAcceptance": false,
+        "tuple": 2
+      }
+    },
+    {
+      "id": "docs-en-light-200",
+      "file": "docs-en-light-200.png",
+      "sha256": "fc1f8b5359cd50b570192a0c48eef840f497c9532a96c572c84536329b39b35f",
+      "screen": "documentation-index",
+      "state": "partial-documentation-view",
+      "title": "Documentation index, English, light, 200%",
+      "alt": "Documentation index, English, light, 200%; a partial capture of the documentation page.",
+      "description": "Partial documentation-page sample. The capture run ended before normal closure, so it does not establish full browser acceptance.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "scale": 2,
+      "image": {
+        "width": 2880,
+        "height": 2000
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "b1564bac7cdb6677ff5d9529e65228577d406259",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawDiagnosticsReviewed": true,
+        "fullRunAcceptance": false,
+        "tuple": 3
+      }
+    },
+    {
+      "id": "docs-en-dark-100",
+      "file": "docs-en-dark-100.png",
+      "sha256": "8b4b91ac6fddb40065b25a1b6d41b766b68de9cb87907bc1d3f645b5d8884416",
+      "screen": "documentation-index",
+      "state": "partial-documentation-view",
+      "title": "Documentation index, English, dark, 100%",
+      "alt": "Documentation index, English, dark, 100%; a partial capture of the documentation page.",
+      "description": "Partial documentation-page sample. The capture run ended before normal closure, so it does not establish full browser acceptance.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "scale": 1,
+      "image": {
+        "width": 1440,
+        "height": 1000
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "b1564bac7cdb6677ff5d9529e65228577d406259",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawDiagnosticsReviewed": true,
+        "fullRunAcceptance": false,
+        "tuple": 4
+      }
+    },
+    {
+      "id": "docs-en-dark-125",
+      "file": "docs-en-dark-125.png",
+      "sha256": "fc636bf7b1f53c5a24f789df5c2ed14bc47807ba6d4b0fb17c00d53f15f052fe",
+      "screen": "documentation-index",
+      "state": "partial-documentation-view",
+      "title": "Documentation index, English, dark, 125%",
+      "alt": "Documentation index, English, dark, 125%; a partial capture of the documentation page.",
+      "description": "Partial documentation-page sample. The capture run ended before normal closure, so it does not establish full browser acceptance.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "scale": 1.25,
+      "image": {
+        "width": 1800,
+        "height": 1250
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "b1564bac7cdb6677ff5d9529e65228577d406259",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawDiagnosticsReviewed": true,
+        "fullRunAcceptance": false,
+        "tuple": 5
+      }
+    },
+    {
+      "id": "docs-en-dark-150",
+      "file": "docs-en-dark-150.png",
+      "sha256": "3b399b3524368bc9321b5e505d4825b188275bcc64599ad068420b8d46c20a64",
+      "screen": "documentation-index",
+      "state": "partial-documentation-view",
+      "title": "Documentation index, English, dark, 150%",
+      "alt": "Documentation index, English, dark, 150%; a partial capture of the documentation page.",
+      "description": "Partial documentation-page sample. The capture run ended before normal closure, so it does not establish full browser acceptance.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "scale": 1.5,
+      "image": {
+        "width": 2160,
+        "height": 1500
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "b1564bac7cdb6677ff5d9529e65228577d406259",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawDiagnosticsReviewed": true,
+        "fullRunAcceptance": false,
+        "tuple": 6
+      }
+    },
+    {
+      "id": "docs-en-dark-200",
+      "file": "docs-en-dark-200.png",
+      "sha256": "b55a15c5db60ec00a9149c8889ff31a2ef53c5a3b779b9e27f23cd8cb4e235a7",
+      "screen": "documentation-index",
+      "state": "partial-documentation-view",
+      "title": "Documentation index, English, dark, 200%",
+      "alt": "Documentation index, English, dark, 200%; a partial capture of the documentation page.",
+      "description": "Partial documentation-page sample. The capture run ended before normal closure, so it does not establish full browser acceptance.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "scale": 2,
+      "image": {
+        "width": 2880,
+        "height": 2000
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "b1564bac7cdb6677ff5d9529e65228577d406259",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawDiagnosticsReviewed": true,
+        "fullRunAcceptance": false,
+        "tuple": 7
+      }
+    },
+    {
+      "id": "docs-yue-light-100",
+      "file": "docs-yue-light-100.png",
+      "sha256": "f96d9bb5178977bf568cd1158ac0601eca6bc2e4d5bd5156679721dd074e6bfb",
+      "screen": "documentation-index",
+      "state": "partial-documentation-view",
+      "title": "Documentation index, Cantonese, light, 100%",
+      "alt": "Documentation index, Cantonese, light, 100%; a partial capture of the documentation page.",
+      "description": "Partial documentation-page sample. The capture run ended before normal closure, so it does not establish full browser acceptance.",
+      "language": "Cantonese",
+      "theme": "light",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "scale": 1,
+      "image": {
+        "width": 1440,
+        "height": 1000
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "b1564bac7cdb6677ff5d9529e65228577d406259",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawDiagnosticsReviewed": true,
+        "fullRunAcceptance": false,
+        "tuple": 8
+      }
+    },
+    {
+      "id": "docs-yue-light-125",
+      "file": "docs-yue-light-125.png",
+      "sha256": "022440817a9b40c675603b2467ed4c1cb14efaaaa9e0e1d9bf3823e7b8f72909",
+      "screen": "documentation-index",
+      "state": "partial-documentation-view",
+      "title": "Documentation index, Cantonese, light, 125%",
+      "alt": "Documentation index, Cantonese, light, 125%; a partial capture of the documentation page.",
+      "description": "Partial documentation-page sample. The capture run ended before normal closure, so it does not establish full browser acceptance.",
+      "language": "Cantonese",
+      "theme": "light",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "scale": 1.25,
+      "image": {
+        "width": 1800,
+        "height": 1250
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "b1564bac7cdb6677ff5d9529e65228577d406259",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawDiagnosticsReviewed": true,
+        "fullRunAcceptance": false,
+        "tuple": 9
+      }
+    },
+    {
+      "id": "docs-yue-light-150",
+      "file": "docs-yue-light-150.png",
+      "sha256": "1b478135e0365837f0d313599d7df6068f9e18cd98d9644f6e43f9fa9a9763a5",
+      "screen": "documentation-index",
+      "state": "partial-documentation-view",
+      "title": "Documentation index, Cantonese, light, 150%",
+      "alt": "Documentation index, Cantonese, light, 150%; a partial capture of the documentation page.",
+      "description": "Partial documentation-page sample. The capture run ended before normal closure, so it does not establish full browser acceptance.",
+      "language": "Cantonese",
+      "theme": "light",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "scale": 1.5,
+      "image": {
+        "width": 2160,
+        "height": 1500
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "b1564bac7cdb6677ff5d9529e65228577d406259",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawDiagnosticsReviewed": true,
+        "fullRunAcceptance": false,
+        "tuple": 10
+      }
+    },
+    {
+      "id": "docs-yue-light-200",
+      "file": "docs-yue-light-200.png",
+      "sha256": "5d2288d8dc14a352498ecd1c6a36575cda56413f7825cdf5a464bc548c307595",
+      "screen": "documentation-index",
+      "state": "partial-documentation-view",
+      "title": "Documentation index, Cantonese, light, 200%",
+      "alt": "Documentation index, Cantonese, light, 200%; a partial capture of the documentation page.",
+      "description": "Partial documentation-page sample. The capture run ended before normal closure, so it does not establish full browser acceptance.",
+      "language": "Cantonese",
+      "theme": "light",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "scale": 2,
+      "image": {
+        "width": 2880,
+        "height": 2000
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "b1564bac7cdb6677ff5d9529e65228577d406259",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawDiagnosticsReviewed": true,
+        "fullRunAcceptance": false,
+        "tuple": 11
+      }
+    },
+    {
+      "id": "docs-yue-dark-100",
+      "file": "docs-yue-dark-100.png",
+      "sha256": "3663c16a3254b3f80afc0d629fa4220c8b0543fee7a74f72e6cbf448199d9749",
+      "screen": "documentation-index",
+      "state": "partial-documentation-view",
+      "title": "Documentation index, Cantonese, dark, 100%",
+      "alt": "Documentation index, Cantonese, dark, 100%; a partial capture of the documentation page.",
+      "description": "Partial documentation-page sample. The capture run ended before normal closure, so it does not establish full browser acceptance.",
+      "language": "Cantonese",
+      "theme": "dark",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "scale": 1,
+      "image": {
+        "width": 1440,
+        "height": 1000
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "b1564bac7cdb6677ff5d9529e65228577d406259",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawDiagnosticsReviewed": true,
+        "fullRunAcceptance": false,
+        "tuple": 12
+      }
+    },
+    {
+      "id": "docs-yue-dark-125",
+      "file": "docs-yue-dark-125.png",
+      "sha256": "68752b3716b9085127d711ff6b441719726f5441f3035b654d7f8d95c0935a4d",
+      "screen": "documentation-index",
+      "state": "partial-documentation-view",
+      "title": "Documentation index, Cantonese, dark, 125%",
+      "alt": "Documentation index, Cantonese, dark, 125%; a partial capture of the documentation page.",
+      "description": "Partial documentation-page sample. The capture run ended before normal closure, so it does not establish full browser acceptance.",
+      "language": "Cantonese",
+      "theme": "dark",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "scale": 1.25,
+      "image": {
+        "width": 1800,
+        "height": 1250
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "b1564bac7cdb6677ff5d9529e65228577d406259",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawDiagnosticsReviewed": true,
+        "fullRunAcceptance": false,
+        "tuple": 13
+      }
     }
   ],
   "exclusions": [
     {
       "class": "path-bearing original captures and raw task receipts",
       "reason": "They contain machine-profile details and were not approved for public delivery."
-    },
-    {
-      "class": "newer task captures described as LREOK",
-      "count": 4,
-      "reason": "Source-task review identifies machine paths in the pixels; all four are excluded from public delivery."
-    },
-    {
-      "class": "other captures among the historical reviewed set",
-      "reason": "Only the four captures individually listed above have public-safe inventory records."
     },
     {
       "class": "generated private announcements",
@@ -90,6 +539,41 @@
     {
       "class": "local application packages, out app.asar archives, and installers",
       "reason": "They are application packages rather than reviewed interface captures and are not part of this public image archive."
+    },
+    {
+      "class": "newer captures whose pixels show machine-profile paths",
+      "count": 4,
+      "reason": "The paths are visible in the images, so these files remain private."
+    },
+    {
+      "class": "other captures among the historical reviewed set",
+      "reason": "Only the four individually listed historical images have public-safe inventory records."
+    },
+    {
+      "class": "tuple 14 from the partial documentation capture run",
+      "count": 1,
+      "reason": "No PNG exists for the tuple, so no image is reconstructed or included."
+    },
+    {
+      "class": "raw capture receipts and private task evidence",
+      "reason": "They can expose machine paths or private metadata and are not required to view the reviewed images."
     }
-  ]
+  ],
+  "documentationCaptureRun": {
+    "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+    "sourceCommit": "b1564bac7cdb6677ff5d9529e65228577d406259",
+    "sourceDeployment": "b1564bac7cdb6677ff5d9529e65228577d406259",
+    "complete": false,
+    "closureVerified": false,
+    "completedHomeTuples": 14,
+    "plannedHomeTuples": 48,
+    "partialTuple": {
+      "tuple": 14,
+      "pngPresent": false,
+      "accepted": false
+    },
+    "captureDate": null,
+    "captureTimeZone": null,
+    "publicationBoundary": "Fourteen individually reviewed documentation-page images are shown as partial visual samples. They are not full browser-acceptance evidence."
+  }
 }

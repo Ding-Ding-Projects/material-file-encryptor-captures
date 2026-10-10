@@ -1,6 +1,6 @@
 # Gallery documentation
 
-This category explains the historical capture archive.
+This category records the capture sources, review boundaries, and excluded material shown in the public image archive.
 
 - [Capture provenance and limits](captures.md)
 
