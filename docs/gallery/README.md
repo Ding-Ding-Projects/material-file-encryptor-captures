@@ -1,8 +1,10 @@
 # Gallery documentation
 
-This category records the capture sources, review boundaries, and excluded material shown in the public image archive.
+This category records the capture sources, review boundaries, and excluded material shown in the public image archive. The site documentation index at `site/docs.html` includes this category index, its complete capture article, the provenance summary, the inventory link, and the current wiki status.
 
 - [Capture provenance and limits](captures.md)
+
+The product-interface snapshot includes ten original images from source commit `68ca7f15bfc286d5da960a4c4287f481755455f4`. Seven scenes were observed and three remain diagnostic-only. Exact states and limitations are recorded in the public inventory.
 
 There is no HTTP API in this project, so a Postman collection is not applicable.
 

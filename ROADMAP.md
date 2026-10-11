@@ -23,7 +23,7 @@
 - [x] Inspect all ten original product-interface PNGs and match each byte hash and dimensions to its source receipt.
 - [x] Record the cloud Playwright route, source and artifact binding, UTC times, privacy review, and seven observed versus three diagnostic-only scene outcomes.
 - [x] Add original image bytes and honest captions to the gallery source, README, article, and provenance page.
-- [ ] Build through the exact root `build.bat` and stage the reviewed static output in the Pages source folder.
+- [x] Build through the exact root `build.bat` and stage the reviewed static output in `docs/` for branch-based GitHub Pages.
 - [ ] Publish through GitHub Pages and verify the live home, internal documentation routes, inventory, and every original image anonymously.
 - [ ] Read back and verify the exact repository About homepage URL.
 - [ ] Integrate the completed task into `main`, push it, and verify the Git remote ref.
