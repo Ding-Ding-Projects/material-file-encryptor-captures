@@ -24,9 +24,10 @@
 - [x] Record the cloud Playwright route, source and artifact binding, UTC times, privacy review, and seven observed versus three diagnostic-only scene outcomes.
 - [x] Add original image bytes and honest captions to the gallery source, README, article, and provenance page.
 - [x] Build through the exact root `build.bat` and stage the reviewed static output in `docs/` for branch-based GitHub Pages.
-- [ ] Publish through GitHub Pages and verify the live home, internal documentation routes, inventory, and every original image anonymously.
-- [ ] Read back and verify the exact repository About homepage URL.
-- [ ] Integrate the completed task into `main`, push it, and verify the Git remote ref.
+- [x] Publish through GitHub Pages and verify the live home, internal documentation routes, inventory, and every original image anonymously. Deployment run 38153889923 served commit `f3020546ef0e47317f6d86f422c9cd94cc666368`; all 39 discovered internal URLs returned HTTP 200 and all 28 public image hashes matched.
+- [x] Read back and verify the exact repository About homepage URL: https://ding-ding-projects.github.io/material-file-encryptor-captures/.
+- [x] Integrate the gallery publication into `main`, push it, and verify the remote ref at `f3020546ef0e47317f6d86f422c9cd94cc666368`.
+- [ ] Commit and push the final handoff and provenance URL update to `main`, then verify the resulting Pages deployment and live image hashes against its new source ref.
 
 ## Publication privacy containment
 

@@ -2,7 +2,7 @@
 
 This gallery preserves four application captures from packaged source [`1e16dea8edb66ea5e6cf31009b0dbcc953f18d74`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/1e16dea8edb66ea5e6cf31009b0dbcc953f18d74), fourteen partial documentation-page samples bound to source [`b1564bac7cdb6677ff5d9529e65228577d406259`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/b1564bac7cdb6677ff5d9529e65228577d406259), and ten product-interface captures from source snapshot [`68ca7f15bfc286d5da960a4c4287f481755455f4`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/68ca7f15bfc286d5da960a4c4287f481755455f4). The latest capture set has seven observed scenes and three diagnostic-only records. All dates, image hashes, route details, and limits are in the public inventory. None of these historical images establishes acceptance of later source or releases.
 
-The intended canonical gallery host is GitHub Pages. Its live URL and the repository About homepage will be recorded here only after anonymous delivery checks pass.
+The public gallery is hosted on GitHub Pages at https://ding-ding-projects.github.io/material-file-encryptor-captures/. Anonymous checks returned HTTP 200 for the home, documentation, capture, and provenance pages, all 28 inventory images matched their published SHA-256 values, and the repository About homepage reads back the exact same URL.
 
 ## Captures
 

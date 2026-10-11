@@ -1,5 +1,17 @@
 # Handoff
 
+## Current publication status
+
+The reviewed static gallery is live at https://ding-ding-projects.github.io/material-file-encryptor-captures/. GitHub Pages serves `main:/docs`; deployment run 38153889923 completed successfully from source commit `f3020546ef0e47317f6d86f422c9cd94cc666368`. The repository is public, and the GitHub About homepage reads back the exact deployed URL. Anonymous HTTP checks returned 200 for the home, documentation index, capture article, provenance article, and inventory. All 28 original PNGs were fetched from the public host and their SHA-256 values matched the checked-in files. All 39 internal page and asset URLs found in the four HTML documents returned 200.
+
+The ten reviewed product-interface images remain a historical partial snapshot bound to source and producer commit `68ca7f15bfc286d5da960a4c4287f481755455f4`, artifact SHA-256 `525f874686ecca1bbbcaccdeffa0b3357e8e3f3daa0982d51d1b6857e9ce7c74`. Seven scenes were observed; three remain diagnostic-only. Full interaction, native behavior, accessibility, and current product acceptance are not established. Raw receipts, private measurements, and all withheld captures remain unpublished.
+
+The exact root `build.bat` completed and verified all 28 original image hashes. Public-source privacy scans returned zero findings for the current authored documents and site files. The Pages deployment and homepage are verified separately from the source push. The wiki remains unavailable because its page repository is not initialized; the Status Hub route remains unavailable in this task runtime. No task-owned linked checkout cleanup was needed.
+
+A supplemental live-page browser inspection covered wide and emulated mobile layouts; it observed no body overflow, console errors, runtime exceptions, failed resources, or unnamed interactive controls, and observed visible keyboard focus. Its version-1 audit receipt was not validated because local profile cleanup was blocked by policy, and the task-owned profile was retained. This partial audit does not change the separate HTTP/image publication verdict or establish product acceptance.
+
+The initial gallery source push is `f3020546ef0e47317f6d86f422c9cd94cc666368`, verified against `origin/main`. The final closeout update remains to be committed and pushed normally to `main`, followed by verification of the ref.
+
 ## Current product-capture publication
 
 Ten original product-interface PNGs from source and producer commit `68ca7f15bfc286d5da960a4c4287f481755455f4` have been reviewed and added to the gallery inventory. Their captured artifact SHA-256 is `525f874686ecca1bbbcaccdeffa0b3357e8e3f3daa0982d51d1b6857e9ce7c74`. The cloud Playwright route recorded 320 × 844 at 100% scale and UTC capture times. Each original PNG hash matches the receipt and all ten decode. Pixel review found no visible personal information or machine-profile paths.
