@@ -14,8 +14,18 @@ The captures cover English and Cantonese, light and dark themes, and selected di
 
 These images are presented only as partial documentation-page samples. They do not establish full browser acceptance, a complete viewport matrix, or current application runtime behavior. The visible page content can continue below the captured viewport; the screenshots are not claims that the page content ends at the bottom edge.
 
+## Product interface snapshot
+
+Ten byte-preserved PNGs record a product-interface capture run bound to source and producer commit [`68ca7f15bfc286d5da960a4c4287f481755455f4`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/68ca7f15bfc286d5da960a4c4287f481755455f4). The captured built artifact SHA-256 is `525f874686ecca1bbbcaccdeffa0b3357e8e3f3daa0982d51d1b6857e9ce7c74`. The route was cloud Playwright at a 320 × 844 emulated viewport and 100% scale. Capture timestamps were recorded in UTC. Every image hash matches its receipt, and all ten PNGs passed decoding and pixel review for visible personal information and machine-profile paths.
+
+Seven images show their requested visual scene: shared navigation, the initial preferences state, the saved Dark theme, the font-family value, the font-scale slider, the unchecked language control, and an empty history-password field. These are visual observations only. The navigation image shows a tab caption only partly at the edge. The password image does not show a credential action. No full interaction, accessibility, native, or current-product acceptance is claimed.
+
+Three images are diagnostic-only. The private-history action target was not uniquely selected. The appearance editor was not reached for either the close or action attempt. The private-history diagnostic repeats the exact PNG bytes of the password-field image; the two appearance diagnostics also have identical PNG bytes. Each receipt record is retained in the inventory, with no invented action result. The full set has seven observed scenes and three readiness failures, and it does not establish full visual acceptance.
+
+These captures are a historical source snapshot. Later source changes are not shown. The capture route was cloud Playwright, not a native desktop route. The private raw receipt and diagnostic measurements are not published; only reviewed image bytes and minimal source-bound metadata are included.
+
 ## Exclusions
 
-Four newer images visibly contain machine-profile paths and remain private. Raw capture receipts, private task evidence, generated private announcements, and local application packages or installers are not published. Tuple 14 is listed as unavailable because its PNG does not exist. The four historical public images remain separately bound to their own source and package provenance.
+Four newer images visibly contain machine-profile paths and remain private. Raw capture receipts, private task evidence, generated private announcements, and local application packages or installers are not published. Tuple 14 is listed as unavailable because its PNG does not exist. The four historical public images and the ten product-interface images remain separately bound to their own source and package provenance.
 
 The gallery is a visual archive. Installation checks, release download checks, browser acceptance, and later runtime evidence have separate records.

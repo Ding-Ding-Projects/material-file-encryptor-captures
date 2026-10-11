@@ -521,6 +521,366 @@
         "fullRunAcceptance": false,
         "tuple": 13
       }
+    },
+    {
+      "id": "mfe-shared-navigation-68ca",
+      "file": "mfe-shared-navigation-68ca.png",
+      "sha256": "89ad39dca312fbb2690a1823aea9d58997047e04aeb90c13f820a5b2d5d5e0d2",
+      "screen": "shared-navigation",
+      "state": "shared-navigation",
+      "title": "Shared navigation with a partially visible appearance tab caption",
+      "alt": "Shared navigation with a partially visible appearance tab caption.",
+      "description": "The appearance caption is only partly visible at the tab edge. Full navigation acceptance is not established.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "scale": 1,
+      "image": {
+        "width": 320,
+        "height": 844
+      },
+      "capturedAt": "2026-10-11T15:30:37.973Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "68ca7f15bfc286d5da960a4c4287f481755455f4",
+      "sourceArtifactSha256": "525f874686ecca1bbbcaccdeffa0b3357e8e3f3daa0982d51d1b6857e9ce7c74",
+      "captureRoute": "cloud-linux-playwright",
+      "captureProof": "Cloud Playwright screenshot; PNG hash and decoder results recorded in reviewed private capture evidence.",
+      "visualStatus": "observed",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawReceiptHashMatched": true,
+        "pngDecodePassed": true,
+        "fullVisualAcceptance": false,
+        "recordedAcceptance": "visual state only; no general interaction or accessibility claim"
+      }
+    },
+    {
+      "id": "mfe-preferences-initial-68ca",
+      "file": "mfe-preferences-initial-68ca.png",
+      "sha256": "1c19d1dffaf8b93f9335e57d160cadcb08958949f4215fea6d65533ac8c9933a",
+      "screen": "preferences",
+      "state": "preferences-initial",
+      "title": "Preferences dialog with the system theme selected",
+      "alt": "Preferences dialog with the system theme selected.",
+      "description": "The preferences dialog shows the light appearance and System theme field.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "scale": 1,
+      "image": {
+        "width": 320,
+        "height": 844
+      },
+      "capturedAt": "2026-10-11T15:30:40.167Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "68ca7f15bfc286d5da960a4c4287f481755455f4",
+      "sourceArtifactSha256": "525f874686ecca1bbbcaccdeffa0b3357e8e3f3daa0982d51d1b6857e9ce7c74",
+      "captureRoute": "cloud-linux-playwright",
+      "captureProof": "Cloud Playwright screenshot; PNG hash and decoder results recorded in reviewed private capture evidence.",
+      "visualStatus": "observed",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawReceiptHashMatched": true,
+        "pngDecodePassed": true,
+        "fullVisualAcceptance": false,
+        "recordedAcceptance": "visual state only; no general interaction or accessibility claim"
+      }
+    },
+    {
+      "id": "mfe-preferences-dark-saved-68ca",
+      "file": "mfe-preferences-dark-saved-68ca.png",
+      "sha256": "3b9f0d346595bdf220ac8bff29fa510d5f749bf85cda033b93a378197dc8c8ab",
+      "screen": "preferences",
+      "state": "preferences-after-dark-request",
+      "title": "Preferences dialog with Dark saved",
+      "alt": "Preferences dialog with Dark saved.",
+      "description": "The preferences dialog shows Dark as the saved theme.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "scale": 1,
+      "image": {
+        "width": 320,
+        "height": 844
+      },
+      "capturedAt": "2026-10-11T15:30:42.780Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "68ca7f15bfc286d5da960a4c4287f481755455f4",
+      "sourceArtifactSha256": "525f874686ecca1bbbcaccdeffa0b3357e8e3f3daa0982d51d1b6857e9ce7c74",
+      "captureRoute": "cloud-linux-playwright",
+      "captureProof": "Cloud Playwright screenshot; PNG hash and decoder results recorded in reviewed private capture evidence.",
+      "visualStatus": "observed",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawReceiptHashMatched": true,
+        "pngDecodePassed": true,
+        "fullVisualAcceptance": false,
+        "recordedAcceptance": "visual state only; no general interaction or accessibility claim"
+      }
+    },
+    {
+      "id": "mfe-font-family-value-68ca",
+      "file": "mfe-font-family-value-68ca.png",
+      "sha256": "d6239b0451099034c6e68336173b5263ddca2e356ade1dace2643b173dfa7581",
+      "screen": "appearance",
+      "state": "appearance-font-family",
+      "title": "Font family field showing system-ui",
+      "alt": "Font family field showing system-ui.",
+      "description": "The font-family field and saved value are visible. Applied font identity is not verified.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "scale": 1,
+      "image": {
+        "width": 320,
+        "height": 844
+      },
+      "capturedAt": "2026-10-11T15:30:45.213Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "68ca7f15bfc286d5da960a4c4287f481755455f4",
+      "sourceArtifactSha256": "525f874686ecca1bbbcaccdeffa0b3357e8e3f3daa0982d51d1b6857e9ce7c74",
+      "captureRoute": "cloud-linux-playwright",
+      "captureProof": "Cloud Playwright screenshot; PNG hash and decoder results recorded in reviewed private capture evidence.",
+      "visualStatus": "observed",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawReceiptHashMatched": true,
+        "pngDecodePassed": true,
+        "fullVisualAcceptance": false,
+        "recordedAcceptance": "visual state only; no general interaction or accessibility claim"
+      }
+    },
+    {
+      "id": "mfe-font-scale-slider-68ca",
+      "file": "mfe-font-scale-slider-68ca.png",
+      "sha256": "1a8fd4c7ef1b826991a03c93d0f9ced29a939beb4c0183149869f74d16075f75",
+      "screen": "appearance",
+      "state": "appearance-font-scale",
+      "title": "Font scale slider and saved value",
+      "alt": "Font scale slider and saved value.",
+      "description": "The font-scale slider and saved value are visible.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "scale": 1,
+      "image": {
+        "width": 320,
+        "height": 844
+      },
+      "capturedAt": "2026-10-11T15:30:47.286Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "68ca7f15bfc286d5da960a4c4287f481755455f4",
+      "sourceArtifactSha256": "525f874686ecca1bbbcaccdeffa0b3357e8e3f3daa0982d51d1b6857e9ce7c74",
+      "captureRoute": "cloud-linux-playwright",
+      "captureProof": "Cloud Playwright screenshot; PNG hash and decoder results recorded in reviewed private capture evidence.",
+      "visualStatus": "observed",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawReceiptHashMatched": true,
+        "pngDecodePassed": true,
+        "fullVisualAcceptance": false,
+        "recordedAcceptance": "visual state only; no general interaction or accessibility claim"
+      }
+    },
+    {
+      "id": "mfe-language-checkbox-68ca",
+      "file": "mfe-language-checkbox-68ca.png",
+      "sha256": "a5f4f6913ed84918575e94f0622705d28ddd3327ad120e01625a52253a6fef24",
+      "screen": "language",
+      "state": "language-checkbox",
+      "title": "Unchecked language checkbox",
+      "alt": "Unchecked language checkbox.",
+      "description": "The unchecked control is visible. This image does not establish an interaction result.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "scale": 1,
+      "image": {
+        "width": 320,
+        "height": 844
+      },
+      "capturedAt": "2026-10-11T15:30:49.839Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "68ca7f15bfc286d5da960a4c4287f481755455f4",
+      "sourceArtifactSha256": "525f874686ecca1bbbcaccdeffa0b3357e8e3f3daa0982d51d1b6857e9ce7c74",
+      "captureRoute": "cloud-linux-playwright",
+      "captureProof": "Cloud Playwright screenshot; PNG hash and decoder results recorded in reviewed private capture evidence.",
+      "visualStatus": "observed",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawReceiptHashMatched": true,
+        "pngDecodePassed": true,
+        "fullVisualAcceptance": false,
+        "recordedAcceptance": "visual state only; no general interaction or accessibility claim"
+      }
+    },
+    {
+      "id": "mfe-private-history-password-68ca",
+      "file": "mfe-private-history-password-68ca.png",
+      "sha256": "b154d3b47a8b551a9b37407eee3dacd29f1be67e565cb07324a45d095fca393b",
+      "screen": "private-history",
+      "state": "private-history-password",
+      "title": "Empty history password field",
+      "alt": "Empty history password field.",
+      "description": "The history password field is empty. No credential action was performed.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "scale": 1,
+      "image": {
+        "width": 320,
+        "height": 844
+      },
+      "capturedAt": "2026-10-11T15:30:52.026Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "68ca7f15bfc286d5da960a4c4287f481755455f4",
+      "sourceArtifactSha256": "525f874686ecca1bbbcaccdeffa0b3357e8e3f3daa0982d51d1b6857e9ce7c74",
+      "captureRoute": "cloud-linux-playwright",
+      "captureProof": "Cloud Playwright screenshot; PNG hash and decoder results recorded in reviewed private capture evidence.",
+      "visualStatus": "observed",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawReceiptHashMatched": true,
+        "pngDecodePassed": true,
+        "fullVisualAcceptance": false,
+        "recordedAcceptance": "visual state only; no general interaction or accessibility claim"
+      }
+    },
+    {
+      "id": "mfe-private-history-action-diagnostic-68ca",
+      "file": "mfe-private-history-action-diagnostic-68ca.png",
+      "sha256": "b154d3b47a8b551a9b37407eee3dacd29f1be67e565cb07324a45d095fca393b",
+      "screen": "private-history",
+      "state": "preferences-diagnostic-private-history-action",
+      "title": "Diagnostic image for an unconfirmed history action target",
+      "alt": "Diagnostic image for an unconfirmed history action target.",
+      "description": "Diagnostic image only. The capture did not uniquely select the requested action target; no action result is shown.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "scale": 1,
+      "image": {
+        "width": 320,
+        "height": 844
+      },
+      "capturedAt": "2026-10-11T15:30:52.541Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "68ca7f15bfc286d5da960a4c4287f481755455f4",
+      "sourceArtifactSha256": "525f874686ecca1bbbcaccdeffa0b3357e8e3f3daa0982d51d1b6857e9ce7c74",
+      "captureRoute": "cloud-linux-playwright",
+      "captureProof": "Cloud Playwright screenshot; PNG hash and decoder results recorded in reviewed private capture evidence.",
+      "visualStatus": "diagnostic-only",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawReceiptHashMatched": true,
+        "pngDecodePassed": true,
+        "fullVisualAcceptance": false,
+        "recordedAcceptance": "requested scene not established"
+      }
+    },
+    {
+      "id": "mfe-appearance-editor-close-diagnostic-68ca",
+      "file": "mfe-appearance-editor-close-diagnostic-68ca.png",
+      "sha256": "e8861bdc372b7467a8a7071aef3f4de7bef2ed954dc1c8dcf7c5b4339e7d66a0",
+      "screen": "appearance",
+      "state": "preferences-diagnostic-appearance-editor-close",
+      "title": "Diagnostic image for an unreached appearance editor close action",
+      "alt": "Diagnostic image for an unreached appearance editor close action.",
+      "description": "Diagnostic image only. The appearance editor was not reached, so this does not show a close action.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "scale": 1,
+      "image": {
+        "width": 320,
+        "height": 844
+      },
+      "capturedAt": "2026-10-11T15:30:54.518Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "68ca7f15bfc286d5da960a4c4287f481755455f4",
+      "sourceArtifactSha256": "525f874686ecca1bbbcaccdeffa0b3357e8e3f3daa0982d51d1b6857e9ce7c74",
+      "captureRoute": "cloud-linux-playwright",
+      "captureProof": "Cloud Playwright screenshot; PNG hash and decoder results recorded in reviewed private capture evidence.",
+      "visualStatus": "diagnostic-only",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawReceiptHashMatched": true,
+        "pngDecodePassed": true,
+        "fullVisualAcceptance": false,
+        "recordedAcceptance": "requested scene not established"
+      }
+    },
+    {
+      "id": "mfe-appearance-editor-action-diagnostic-68ca",
+      "file": "mfe-appearance-editor-action-diagnostic-68ca.png",
+      "sha256": "e8861bdc372b7467a8a7071aef3f4de7bef2ed954dc1c8dcf7c5b4339e7d66a0",
+      "screen": "appearance",
+      "state": "preferences-diagnostic-appearance-editor-action",
+      "title": "Diagnostic image for an unreached appearance editor action",
+      "alt": "Diagnostic image for an unreached appearance editor action.",
+      "description": "Diagnostic image only. The appearance editor was not reached, so this does not show an editor action.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "scale": 1,
+      "image": {
+        "width": 320,
+        "height": 844
+      },
+      "capturedAt": "2026-10-11T15:30:54.956Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "68ca7f15bfc286d5da960a4c4287f481755455f4",
+      "sourceArtifactSha256": "525f874686ecca1bbbcaccdeffa0b3357e8e3f3daa0982d51d1b6857e9ce7c74",
+      "captureRoute": "cloud-linux-playwright",
+      "captureProof": "Cloud Playwright screenshot; PNG hash and decoder results recorded in reviewed private capture evidence.",
+      "visualStatus": "diagnostic-only",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "rawReceiptHashMatched": true,
+        "pngDecodePassed": true,
+        "fullVisualAcceptance": false,
+        "recordedAcceptance": "requested scene not established"
+      }
     }
   ],
   "exclusions": [
