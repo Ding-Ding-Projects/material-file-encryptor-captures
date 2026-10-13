@@ -14,6 +14,12 @@ The captures cover English and Cantonese, light and dark themes, and selected di
 
 These images are presented only as partial documentation-page samples. They do not establish full browser acceptance, a complete viewport matrix, or current application runtime behavior. The visible page content can continue below the captured viewport; the screenshots are not claims that the page content ends at the bottom edge.
 
+## Current documentation guidance captures
+
+Two original PNGs show bilingual history guidance with isolated synthetic sample controls in the documentation site. They are bound to source [`83e14d8627b9782d5acc12221c22ed4f0b8b2d4c`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/83e14d8627b9782d5acc12221c22ed4f0b8b2d4c). The normal view uses a 1280 × 900 CSS viewport at 100%; the narrow view uses a 320 × 800 CSS viewport at 200% browser pixel-density emulation and has a 640 × 1600 image. Capture times are validated in the source inventory and retained in UTC. Both images were inspected for visible personal values, machine paths, credentials, and private links; none were present.
+
+The source capture inventory binds both images to a complete static-output byte manifest with SHA-256 `f761cbf9c4d7dc456601f49c9f5e2997d90cbb67975a38f764a1096627556798`. Pixel-density emulation does not establish physical display scaling. The pair is representative documentation evidence only; native product and installed behavior, and the full language/theme/scale matrix, remain unverified. Exact image hashes, capture times, viewport dimensions, method, and limits are in [`captures/inventory.json`](../../captures/inventory.json).
+
 ## Product interface snapshot
 
 Ten byte-preserved PNGs record a product-interface capture run bound to source and producer commit [`68ca7f15bfc286d5da960a4c4287f481755455f4`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/68ca7f15bfc286d5da960a4c4287f481755455f4). The captured built artifact SHA-256 is `525f874686ecca1bbbcaccdeffa0b3357e8e3f3daa0982d51d1b6857e9ce7c74`. The route was cloud Playwright at a 320 × 844 emulated viewport and 100% scale. Capture timestamps were recorded in UTC. Every image hash matches its receipt, and all ten PNGs passed decoding and pixel review for visible personal information and machine-profile paths.

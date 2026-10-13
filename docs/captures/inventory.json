@@ -881,6 +881,78 @@
         "fullVisualAcceptance": false,
         "recordedAcceptance": "requested scene not established"
       }
+    },
+    {
+      "id": "site-guidance-normal-83e14d86",
+      "file": "site-guidance-normal-83e14d86.png",
+      "sha256": "78701c8aea8f8db63db13da2d11cf342817f8a841769efdc2f063ec8038a1f89",
+      "screen": "documentation-site",
+      "state": "bilingual-isolated-sample",
+      "title": "Bilingual history guidance at 1280 × 900",
+      "alt": "Bilingual history guidance panel with synthetic sample controls in the documentation view.",
+      "description": "Static documentation view of bilingual history guidance and isolated synthetic sample controls. This image does not establish native product or installed behavior.",
+      "language": "Bilingual",
+      "theme": "light",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "scale": 1,
+      "image": {
+        "width": 1280,
+        "height": 900
+      },
+      "capturedAt": "2026-10-13T11:50:15.602Z",
+      "captureStartedAt": "2026-10-13T11:50:15.142Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "83e14d8627b9782d5acc12221c22ed4f0b8b2d4c",
+      "evidence": {
+        "sourceArtifactSha256": "f761cbf9c4d7dc456601f49c9f5e2997d90cbb67975a38f764a1096627556798",
+        "captureMethod": "source-bound hidden desktop browser capture",
+        "inspectionStatus": "inspected",
+        "pixelDensityEmulated": true,
+        "physicalDisplayScalingVerified": false,
+        "pixelPrivacyReviewPassed": true,
+        "nativeProductAcceptance": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "site-guidance-narrow-83e14d86",
+      "file": "site-guidance-narrow-83e14d86.png",
+      "sha256": "5db524e0a6375aa4ee7385b5014a39f43e10b6bc1076a5af6d110bc2b0bacf99",
+      "screen": "documentation-site",
+      "state": "bilingual-isolated-sample",
+      "title": "Bilingual history guidance at 320 px",
+      "alt": "Bilingual history guidance panel with synthetic sample controls in a 320 CSS px viewport, rendered at density 2.",
+      "description": "Narrow static documentation view with bilingual guidance and isolated synthetic sample controls. Pixel-density emulation is recorded; physical display scaling, native product behavior, and the full matrix remain unverified.",
+      "language": "Bilingual",
+      "theme": "light",
+      "viewport": {
+        "width": 320,
+        "height": 800
+      },
+      "scale": 2,
+      "image": {
+        "width": 640,
+        "height": 1600
+      },
+      "capturedAt": "2026-10-13T11:50:45.214Z",
+      "captureStartedAt": "2026-10-13T11:50:44.671Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "83e14d8627b9782d5acc12221c22ed4f0b8b2d4c",
+      "evidence": {
+        "sourceArtifactSha256": "f761cbf9c4d7dc456601f49c9f5e2997d90cbb67975a38f764a1096627556798",
+        "captureMethod": "source-bound hidden desktop browser capture",
+        "inspectionStatus": "inspected",
+        "pixelDensityEmulated": true,
+        "physicalDisplayScalingVerified": false,
+        "pixelPrivacyReviewPassed": true,
+        "nativeProductAcceptance": false,
+        "fullMatrixAcceptance": false
+      }
     }
   ],
   "exclusions": [
