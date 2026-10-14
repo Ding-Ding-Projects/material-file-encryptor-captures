@@ -61,6 +61,6 @@ The unpublished local history is retained separately. This public snapshot is ro
 
 - [x] Preserve and inventory 12 reviewed original images bound to product source `56c61a606e28a5c12968eef567a52fc2ad035ebb`; retain eight validated UTC times and mark four unavailable.
 - [x] Keep the earlier 64 capture records and image bytes unchanged.
-- [x] Run the root build; it reports `Built 76 verified original captures into dist/.`.\n- [ ] Dew the gallery update to `main` and verify the remote ref.
+- [x] Run the root build; it reports `Built 76 verified original captures into dist/.`.\n- [ ] push the gallery update to `main` and verify the remote ref.
 - [ ] Verify live page, all 76 images, and About homepage after deployment.
 
