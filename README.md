@@ -1,6 +1,6 @@
 # Material File Encryptor capture gallery
 
-This gallery preserves 64 reviewed original captures, including 34 newly added packaged composition-review images from two distinct source snapshots. The eight focus-after images show an unfinished candidate change and retain the visible limitation that the outline top is covered by the table header. No claim is made that either source snapshot is current `main`.
+This gallery preserves 76 reviewed original captures, including 46 packaged composition-review images from three distinct source snapshots. The eight focus-after images show an unfinished candidate change and retain the visible limitation that the outline top is covered by the table header. The latest 12 images are bound to product source `56c61a606e28a5c12968eef567a52fc2ad035ebb`, which is now an ancestor of product `main`; the two earlier source snapshots remain historical.
 
 This gallery preserves four historical application captures from packaged source [`1e16dea8edb66ea5e6cf31009b0dbcc953f18d74`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/1e16dea8edb66ea5e6cf31009b0dbcc953f18d74), fourteen partial documentation-page samples bound to source [`b1564bac7cdb6677ff5d9529e65228577d406259`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/b1564bac7cdb6677ff5d9529e65228577d406259), and ten product-interface captures from source snapshot [`68ca7f15bfc286d5da960a4c4287f481755455f4`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/68ca7f15bfc286d5da960a4c4287f481755455f4). It now also includes two inspected bilingual documentation captures from source [`83e14d8627b9782d5acc12221c22ed4f0b8b2d4c`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/83e14d8627b9782d5acc12221c22ed4f0b8b2d4c). The older product-interface set has seven observed scenes and three diagnostic-only records. All dates, image hashes, route details, and limits are in the public inventory. These images do not establish native or installed-product acceptance.
 
@@ -77,3 +77,7 @@ The deployed archive page is a focused static gallery. Its universal interactive
 
 
 The unpublished local history is retained separately. This public snapshot is rooted at the previously published main commit; it does not publish the superseded local history. The earlier local build result stays historical. A fresh exact root build against the sanitized snapshot and live deployment verification remain required before current publication is claimed.
+
+## Full-ring keyboard-focus review
+
+Twelve additional original PNGs are bound to packaged source `56c61a606e28a5c12968eef567a52fc2ad035ebb`. Eight have validated UTC capture times; four scrolled images have no validated per-image time, recorded as unavailable. The images are English-only, light/dark, DPR 1 browser-emulated, and show empty or locked History and Recycle Bin views. The full ring is visible in the scrolled narrow views. The 8 probes cover only the base capture set. Physical display scaling, populated rows, unlocked behavior, and full matrix acceptance are not established.

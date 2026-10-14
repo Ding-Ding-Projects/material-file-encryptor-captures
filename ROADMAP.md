@@ -55,3 +55,12 @@ The unpublished local history is retained separately. This public snapshot is ro
 - [x] Commit and push the reviewed update to `main`; `git ls-remote` confirms `98acac964e475436e5f154725be2d13399cc7fed`.
 - [x] Verify Pages deployment run `38494715820` completed for `98acac964e475436e5f154725be2d13399cc7fed`; anonymous home, docs index, capture article, provenance page, and inventory returned HTTP 200; all 64 image URLs returned HTTP 200 and match inventory SHA-256; About homepage reads exactly https://ding-ding-projects.github.io/material-file-encryptor-captures/.
 - [x] Post the final source ref, deployment run, live route and hash checks, and remaining limits to issue #1 and the existing General Discussion; close issue #1 after the evidence was verified.
+
+
+## Full-ring keyboard-focus publication
+
+- [x] Preserve and inventory 12 reviewed original images bound to product source `56c61a606e28a5c12968eef567a52fc2ad035ebb`; retain eight validated UTC times and mark four unavailable.
+- [x] Keep the earlier 64 capture records and image bytes unchanged.
+- [x] Run the root build; it reports `Built 76 verified original captures into dist/.`.\n- [ ] Dew the gallery update to `main` and verify the remote ref.
+- [ ] Verify live page, all 76 images, and About homepage after deployment.
+

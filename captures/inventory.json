@@ -66,7 +66,7 @@
         "width": 1770,
         "height": 1128
       },
-      "capturedAt": "2026-10-09T18:03:47.090Z",
+      "capturedAt": "2026-10-09T18:03:47.09Z",
       "timeZone": "UTC"
     },
     {
@@ -614,7 +614,7 @@
         "width": 320,
         "height": 844
       },
-      "capturedAt": "2026-10-11T15:30:42.780Z",
+      "capturedAt": "2026-10-11T15:30:42.78Z",
       "timeZone": "UTC",
       "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
       "sourceCommit": "68ca7f15bfc286d5da960a4c4287f481755455f4",
@@ -2084,7 +2084,7 @@
         "width": 880,
         "height": 650
       },
-      "capturedAt": "2026-10-14T01:05:46.470Z",
+      "capturedAt": "2026-10-14T01:05:46.47Z",
       "timeZone": "UTC",
       "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
       "sourceCommit": "f77845127b457fb30692346aae591d9a3501237d",
@@ -2121,7 +2121,7 @@
         "width": 880,
         "height": 650
       },
-      "capturedAt": "2026-10-14T01:05:47.610Z",
+      "capturedAt": "2026-10-14T01:05:47.61Z",
       "timeZone": "UTC",
       "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
       "sourceCommit": "f77845127b457fb30692346aae591d9a3501237d",
@@ -2210,6 +2210,474 @@
         "nativeWindowScreenshot": false,
         "physicalDisplayScalingVerified": false,
         "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "full-ring-1180x850-dark-history-keyboard-focus",
+      "file": "mfe-full-ring-1180x850-dark-history-keyboard-focus.png",
+      "sha256": "4757fd27d1098b4c2cd2493edbe7728cdb25306104dc5f990b37de2e40cf00f4",
+      "screen": "history",
+      "state": "keyboard-focus-history",
+      "title": "Fully visible keyboard focus, history, dark theme",
+      "alt": "Keyboard focus outline visible around the history view, dark theme, at 1180x850 CSS pixels.",
+      "description": "The focus outline remains visible after scrolling the narrow view. This is an empty or locked view and does not establish populated-record behavior.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "height": 850,
+        "width": 1180
+      },
+      "scale": 1,
+      "image": {
+        "height": 850,
+        "width": 1180
+      },
+      "capturedAt": "2026-10-14T02:10:35.569Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "56c61a606e28a5c12968eef567a52fc2ad035ebb",
+      "sourceArtifactSha256": "2f14b743d48833154c73ac6c33d72c9a53d3fbe7e5aecff0c919efdaec60c4e0",
+      "packagedArchiveSha256": "06f1c01ecc1886cf099e96be21cfda015a338fef2fa5bfd6808ed44ce0dd834a",
+      "captureRoute": "cheap-lowlevel-headless",
+      "captureMethod": "owned-package-cdp",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "captureDateUnavailableReason": null,
+        "rawSha256Matched": true,
+        "sourceCommitBindingVerified": true,
+        "pngDecodePassed": true,
+        "fullMatrixAcceptance": false,
+        "probeCount": 8,
+        "visualReviewPassed": true
+      }
+    },
+    {
+      "id": "full-ring-1180x850-dark-recycle-keyboard-focus",
+      "file": "mfe-full-ring-1180x850-dark-recycle-keyboard-focus.png",
+      "sha256": "6856c98f4954db4cf32a8a24bf2d40a25729907bb61bfd89e1f72993fd3ac724",
+      "screen": "recycle-bin",
+      "state": "keyboard-focus-recycle-bin",
+      "title": "Fully visible keyboard focus, recycle-bin, dark theme",
+      "alt": "Keyboard focus outline visible around the recycle-bin view, dark theme, at 1180x850 CSS pixels.",
+      "description": "The focus outline remains visible after scrolling the narrow view. This is an empty or locked view and does not establish populated-record behavior.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "height": 850,
+        "width": 1180
+      },
+      "scale": 1,
+      "image": {
+        "height": 850,
+        "width": 1180
+      },
+      "capturedAt": "2026-10-14T02:10:37.152Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "56c61a606e28a5c12968eef567a52fc2ad035ebb",
+      "sourceArtifactSha256": "2f14b743d48833154c73ac6c33d72c9a53d3fbe7e5aecff0c919efdaec60c4e0",
+      "packagedArchiveSha256": "06f1c01ecc1886cf099e96be21cfda015a338fef2fa5bfd6808ed44ce0dd834a",
+      "captureRoute": "cheap-lowlevel-headless",
+      "captureMethod": "owned-package-cdp",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "captureDateUnavailableReason": null,
+        "rawSha256Matched": true,
+        "sourceCommitBindingVerified": true,
+        "pngDecodePassed": true,
+        "fullMatrixAcceptance": false,
+        "probeCount": 8,
+        "visualReviewPassed": true
+      }
+    },
+    {
+      "id": "full-ring-1180x850-light-history-keyboard-focus",
+      "file": "mfe-full-ring-1180x850-light-history-keyboard-focus.png",
+      "sha256": "6fbd35e6698f97efa4e71343da213fc50cc7bc23860c25d8dc0ddb2ff1766af4",
+      "screen": "history",
+      "state": "keyboard-focus-history",
+      "title": "Fully visible keyboard focus, history, light theme",
+      "alt": "Keyboard focus outline visible around the history view, light theme, at 1180x850 CSS pixels.",
+      "description": "The focus outline remains visible after scrolling the narrow view. This is an empty or locked view and does not establish populated-record behavior.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "height": 850,
+        "width": 1180
+      },
+      "scale": 1,
+      "image": {
+        "height": 850,
+        "width": 1180
+      },
+      "capturedAt": "2026-10-14T02:10:32.350Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "56c61a606e28a5c12968eef567a52fc2ad035ebb",
+      "sourceArtifactSha256": "2f14b743d48833154c73ac6c33d72c9a53d3fbe7e5aecff0c919efdaec60c4e0",
+      "packagedArchiveSha256": "06f1c01ecc1886cf099e96be21cfda015a338fef2fa5bfd6808ed44ce0dd834a",
+      "captureRoute": "cheap-lowlevel-headless",
+      "captureMethod": "owned-package-cdp",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "captureDateUnavailableReason": null,
+        "rawSha256Matched": true,
+        "sourceCommitBindingVerified": true,
+        "pngDecodePassed": true,
+        "fullMatrixAcceptance": false,
+        "probeCount": 8,
+        "visualReviewPassed": true
+      }
+    },
+    {
+      "id": "full-ring-1180x850-light-recycle-keyboard-focus",
+      "file": "mfe-full-ring-1180x850-light-recycle-keyboard-focus.png",
+      "sha256": "7320b878cb6d7c1b7b5507373955ea7b0eb5925455c48c421f262db9baf8a187",
+      "screen": "recycle-bin",
+      "state": "keyboard-focus-recycle-bin",
+      "title": "Fully visible keyboard focus, recycle-bin, light theme",
+      "alt": "Keyboard focus outline visible around the recycle-bin view, light theme, at 1180x850 CSS pixels.",
+      "description": "The focus outline remains visible after scrolling the narrow view. This is an empty or locked view and does not establish populated-record behavior.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "height": 850,
+        "width": 1180
+      },
+      "scale": 1,
+      "image": {
+        "height": 850,
+        "width": 1180
+      },
+      "capturedAt": "2026-10-14T02:10:33.718Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "56c61a606e28a5c12968eef567a52fc2ad035ebb",
+      "sourceArtifactSha256": "2f14b743d48833154c73ac6c33d72c9a53d3fbe7e5aecff0c919efdaec60c4e0",
+      "packagedArchiveSha256": "06f1c01ecc1886cf099e96be21cfda015a338fef2fa5bfd6808ed44ce0dd834a",
+      "captureRoute": "cheap-lowlevel-headless",
+      "captureMethod": "owned-package-cdp",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "captureDateUnavailableReason": null,
+        "rawSha256Matched": true,
+        "sourceCommitBindingVerified": true,
+        "pngDecodePassed": true,
+        "fullMatrixAcceptance": false,
+        "probeCount": 8,
+        "visualReviewPassed": true
+      }
+    },
+    {
+      "id": "full-ring-880x650-dark-history-keyboard-focus",
+      "file": "mfe-full-ring-880x650-dark-history-keyboard-focus.png",
+      "sha256": "dd059497ba93af889208a26d7e785bf1da6fd26a121f88ea63bbcbcab92d4c39",
+      "screen": "history",
+      "state": "keyboard-focus-history",
+      "title": "Fully visible keyboard focus, history, dark theme",
+      "alt": "Keyboard focus outline visible around the history view, dark theme, at 880x650 CSS pixels.",
+      "description": "The focus outline remains visible after scrolling the narrow view. This is an empty or locked view and does not establish populated-record behavior.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "height": 650,
+        "width": 880
+      },
+      "scale": 1,
+      "image": {
+        "height": 650,
+        "width": 880
+      },
+      "capturedAt": "2026-10-14T02:10:42.742Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "56c61a606e28a5c12968eef567a52fc2ad035ebb",
+      "sourceArtifactSha256": "2f14b743d48833154c73ac6c33d72c9a53d3fbe7e5aecff0c919efdaec60c4e0",
+      "packagedArchiveSha256": "06f1c01ecc1886cf099e96be21cfda015a338fef2fa5bfd6808ed44ce0dd834a",
+      "captureRoute": "cheap-lowlevel-headless",
+      "captureMethod": "owned-package-cdp",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "captureDateUnavailableReason": null,
+        "rawSha256Matched": true,
+        "sourceCommitBindingVerified": true,
+        "pngDecodePassed": true,
+        "fullMatrixAcceptance": false,
+        "probeCount": 8,
+        "visualReviewPassed": true
+      }
+    },
+    {
+      "id": "full-ring-880x650-dark-recycle-keyboard-focus",
+      "file": "mfe-full-ring-880x650-dark-recycle-keyboard-focus.png",
+      "sha256": "f72aca6d0c890ff1b3c1c0ea40161859f0de682f7e17b925c27a1cce7fd8f90f",
+      "screen": "recycle-bin",
+      "state": "keyboard-focus-recycle-bin",
+      "title": "Fully visible keyboard focus, recycle-bin, dark theme",
+      "alt": "Keyboard focus outline visible around the recycle-bin view, dark theme, at 880x650 CSS pixels.",
+      "description": "The focus outline remains visible after scrolling the narrow view. This is an empty or locked view and does not establish populated-record behavior.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "height": 650,
+        "width": 880
+      },
+      "scale": 1,
+      "image": {
+        "height": 650,
+        "width": 880
+      },
+      "capturedAt": "2026-10-14T02:10:44.436Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "56c61a606e28a5c12968eef567a52fc2ad035ebb",
+      "sourceArtifactSha256": "2f14b743d48833154c73ac6c33d72c9a53d3fbe7e5aecff0c919efdaec60c4e0",
+      "packagedArchiveSha256": "06f1c01ecc1886cf099e96be21cfda015a338fef2fa5bfd6808ed44ce0dd834a",
+      "captureRoute": "cheap-lowlevel-headless",
+      "captureMethod": "owned-package-cdp",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "captureDateUnavailableReason": null,
+        "rawSha256Matched": true,
+        "sourceCommitBindingVerified": true,
+        "pngDecodePassed": true,
+        "fullMatrixAcceptance": false,
+        "probeCount": 8,
+        "visualReviewPassed": true
+      }
+    },
+    {
+      "id": "full-ring-880x650-light-history-keyboard-focus",
+      "file": "mfe-full-ring-880x650-light-history-keyboard-focus.png",
+      "sha256": "a7f0af53d0b4f3a941c2a839a27da0d5ab2ac278bf437e4c4ded7a4562ad7978",
+      "screen": "history",
+      "state": "keyboard-focus-history",
+      "title": "Fully visible keyboard focus, history, light theme",
+      "alt": "Keyboard focus outline visible around the history view, light theme, at 880x650 CSS pixels.",
+      "description": "The focus outline remains visible after scrolling the narrow view. This is an empty or locked view and does not establish populated-record behavior.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "height": 650,
+        "width": 880
+      },
+      "scale": 1,
+      "image": {
+        "height": 650,
+        "width": 880
+      },
+      "capturedAt": "2026-10-14T02:10:39.196Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "56c61a606e28a5c12968eef567a52fc2ad035ebb",
+      "sourceArtifactSha256": "2f14b743d48833154c73ac6c33d72c9a53d3fbe7e5aecff0c919efdaec60c4e0",
+      "packagedArchiveSha256": "06f1c01ecc1886cf099e96be21cfda015a338fef2fa5bfd6808ed44ce0dd834a",
+      "captureRoute": "cheap-lowlevel-headless",
+      "captureMethod": "owned-package-cdp",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "captureDateUnavailableReason": null,
+        "rawSha256Matched": true,
+        "sourceCommitBindingVerified": true,
+        "pngDecodePassed": true,
+        "fullMatrixAcceptance": false,
+        "probeCount": 8,
+        "visualReviewPassed": true
+      }
+    },
+    {
+      "id": "full-ring-880x650-light-recycle-keyboard-focus",
+      "file": "mfe-full-ring-880x650-light-recycle-keyboard-focus.png",
+      "sha256": "1a3beb7b48da543d2b294191c01c41a2353e5334b84080bc7e72092601c8bdb2",
+      "screen": "recycle-bin",
+      "state": "keyboard-focus-recycle-bin",
+      "title": "Fully visible keyboard focus, recycle-bin, light theme",
+      "alt": "Keyboard focus outline visible around the recycle-bin view, light theme, at 880x650 CSS pixels.",
+      "description": "The focus outline remains visible after scrolling the narrow view. This is an empty or locked view and does not establish populated-record behavior.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "height": 650,
+        "width": 880
+      },
+      "scale": 1,
+      "image": {
+        "height": 650,
+        "width": 880
+      },
+      "capturedAt": "2026-10-14T02:10:40.793Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "56c61a606e28a5c12968eef567a52fc2ad035ebb",
+      "sourceArtifactSha256": "2f14b743d48833154c73ac6c33d72c9a53d3fbe7e5aecff0c919efdaec60c4e0",
+      "packagedArchiveSha256": "06f1c01ecc1886cf099e96be21cfda015a338fef2fa5bfd6808ed44ce0dd834a",
+      "captureRoute": "cheap-lowlevel-headless",
+      "captureMethod": "owned-package-cdp",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "captureDateUnavailableReason": null,
+        "rawSha256Matched": true,
+        "sourceCommitBindingVerified": true,
+        "pngDecodePassed": true,
+        "fullMatrixAcceptance": false,
+        "probeCount": 8,
+        "visualReviewPassed": true
+      }
+    },
+    {
+      "id": "full-ring-880x650-dark-history-keyboard-focus-fully-visible-scrolled",
+      "file": "mfe-full-ring-880x650-dark-history-keyboard-focus-fully-visible-scrolled.png",
+      "sha256": "dd059497ba93af889208a26d7e785bf1da6fd26a121f88ea63bbcbcab92d4c39",
+      "screen": "history",
+      "state": "keyboard-focus-history",
+      "title": "Fully visible keyboard focus, history, dark theme",
+      "alt": "Keyboard focus outline visible around the history view, dark theme, at 880x650 CSS pixels.",
+      "description": "The focus outline remains visible after scrolling the narrow view. This is an empty or locked view and does not establish populated-record behavior.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "height": 650,
+        "width": 880
+      },
+      "scale": 1,
+      "image": {
+        "height": 650,
+        "width": 880
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "56c61a606e28a5c12968eef567a52fc2ad035ebb",
+      "sourceArtifactSha256": "2f14b743d48833154c73ac6c33d72c9a53d3fbe7e5aecff0c919efdaec60c4e0",
+      "packagedArchiveSha256": "06f1c01ecc1886cf099e96be21cfda015a338fef2fa5bfd6808ed44ce0dd834a",
+      "captureRoute": "cheap-lowlevel-headless",
+      "captureMethod": "owned-package-cdp",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "captureDateUnavailableReason": "The per-image sidecar records scroll geometry only and contains no validated capture timestamp.",
+        "rawSha256Matched": true,
+        "sourceCommitBindingVerified": true,
+        "pngDecodePassed": true,
+        "fullMatrixAcceptance": false,
+        "probeCount": 8,
+        "visualReviewPassed": true
+      }
+    },
+    {
+      "id": "full-ring-880x650-dark-recycle-keyboard-focus-fully-visible-scrolled",
+      "file": "mfe-full-ring-880x650-dark-recycle-keyboard-focus-fully-visible-scrolled.png",
+      "sha256": "d11b3a8138411ad04f3ba417cf808746eba22ffed6284b0090938974a4f1239b",
+      "screen": "recycle-bin",
+      "state": "keyboard-focus-recycle-bin",
+      "title": "Fully visible keyboard focus, recycle-bin, dark theme",
+      "alt": "Keyboard focus outline visible around the recycle-bin view, dark theme, at 880x650 CSS pixels.",
+      "description": "The focus outline remains visible after scrolling the narrow view. This is an empty or locked view and does not establish populated-record behavior.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "height": 650,
+        "width": 880
+      },
+      "scale": 1,
+      "image": {
+        "height": 650,
+        "width": 880
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "56c61a606e28a5c12968eef567a52fc2ad035ebb",
+      "sourceArtifactSha256": "2f14b743d48833154c73ac6c33d72c9a53d3fbe7e5aecff0c919efdaec60c4e0",
+      "packagedArchiveSha256": "06f1c01ecc1886cf099e96be21cfda015a338fef2fa5bfd6808ed44ce0dd834a",
+      "captureRoute": "cheap-lowlevel-headless",
+      "captureMethod": "owned-package-cdp",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "captureDateUnavailableReason": "The per-image sidecar records scroll geometry only and contains no validated capture timestamp.",
+        "rawSha256Matched": true,
+        "sourceCommitBindingVerified": true,
+        "pngDecodePassed": true,
+        "fullMatrixAcceptance": false,
+        "probeCount": 8,
+        "visualReviewPassed": true
+      }
+    },
+    {
+      "id": "full-ring-880x650-light-history-keyboard-focus-fully-visible-scrolled",
+      "file": "mfe-full-ring-880x650-light-history-keyboard-focus-fully-visible-scrolled.png",
+      "sha256": "bd16b1fe40b548eb4d0c097c3224e47a2527113813d971d29244f45a1c566ff0",
+      "screen": "history",
+      "state": "keyboard-focus-history",
+      "title": "Fully visible keyboard focus, history, light theme",
+      "alt": "Keyboard focus outline visible around the history view, light theme, at 880x650 CSS pixels.",
+      "description": "The focus outline remains visible after scrolling the narrow view. This is an empty or locked view and does not establish populated-record behavior.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "height": 650,
+        "width": 880
+      },
+      "scale": 1,
+      "image": {
+        "height": 650,
+        "width": 880
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "56c61a606e28a5c12968eef567a52fc2ad035ebb",
+      "sourceArtifactSha256": "2f14b743d48833154c73ac6c33d72c9a53d3fbe7e5aecff0c919efdaec60c4e0",
+      "packagedArchiveSha256": "06f1c01ecc1886cf099e96be21cfda015a338fef2fa5bfd6808ed44ce0dd834a",
+      "captureRoute": "cheap-lowlevel-headless",
+      "captureMethod": "owned-package-cdp",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "captureDateUnavailableReason": "The per-image sidecar records scroll geometry only and contains no validated capture timestamp.",
+        "rawSha256Matched": true,
+        "sourceCommitBindingVerified": true,
+        "pngDecodePassed": true,
+        "fullMatrixAcceptance": false,
+        "probeCount": 8,
+        "visualReviewPassed": true
+      }
+    },
+    {
+      "id": "full-ring-880x650-light-recycle-keyboard-focus-fully-visible-scrolled",
+      "file": "mfe-full-ring-880x650-light-recycle-keyboard-focus-fully-visible-scrolled.png",
+      "sha256": "b63c4f3f0f6b78e3f0cbbc1e82aba7782fd85196afd965111602360986ce282c",
+      "screen": "recycle-bin",
+      "state": "keyboard-focus-recycle-bin",
+      "title": "Fully visible keyboard focus, recycle-bin, light theme",
+      "alt": "Keyboard focus outline visible around the recycle-bin view, light theme, at 880x650 CSS pixels.",
+      "description": "The focus outline remains visible after scrolling the narrow view. This is an empty or locked view and does not establish populated-record behavior.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "height": 650,
+        "width": 880
+      },
+      "scale": 1,
+      "image": {
+        "height": 650,
+        "width": 880
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "56c61a606e28a5c12968eef567a52fc2ad035ebb",
+      "sourceArtifactSha256": "2f14b743d48833154c73ac6c33d72c9a53d3fbe7e5aecff0c919efdaec60c4e0",
+      "packagedArchiveSha256": "06f1c01ecc1886cf099e96be21cfda015a338fef2fa5bfd6808ed44ce0dd834a",
+      "captureRoute": "cheap-lowlevel-headless",
+      "captureMethod": "owned-package-cdp",
+      "evidence": {
+        "privacyReviewPassed": true,
+        "captureDateUnavailableReason": "The per-image sidecar records scroll geometry only and contains no validated capture timestamp.",
+        "rawSha256Matched": true,
+        "sourceCommitBindingVerified": true,
+        "pngDecodePassed": true,
+        "fullMatrixAcceptance": false,
+        "probeCount": 8,
+        "visualReviewPassed": true
       }
     }
   ],

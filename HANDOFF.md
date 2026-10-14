@@ -20,3 +20,11 @@ The public gallery source now includes 34 additional original images: 26 baselin
 The eight focus-after views show more outline at the sides and bottom while the table header still covers the top segment. The candidate is unfinished. The 26 baseline views also show empty or locked content only. The set is English-only, light/dark, DPR 1 browser emulation; it proves no populated records, unlocked behavior, physical display scaling, native HWND screenshot, Cantonese or full matrix acceptance. No private raw receipts or local paths were copied.
 
 The exact root `build.bat` passed with `Built 64 verified original captures into dist/.`; source and Pages inventory hashes match. The source was committed and pushed to `main` at `98acac964e475436e5f154725be2d13399cc7fed`, and `git ls-remote` read back the same ref. GitHub Pages run `38494715820` completed successfully for that commit. Anonymous checks returned HTTP 200 for the home, docs index, capture article, provenance page, and inventory, and for all 64 image URLs; all image SHA-256 values matched the inventory. The public repository About homepage reads exactly `https://ding-ding-projects.github.io/material-file-encryptor-captures/`. Final evidence was posted to issue #1 and the existing General Discussion, and issue #1 was closed after verification.
+
+
+## 2026-10-14 full-ring gallery update
+
+Twelve inspected original PNG captures from product source `56c61a606e28a5c12968eef567a52fc2ad035ebb` have been added to the existing gallery inventory and Pages source. Eight per-image receipts provide validated UTC capture times; the four scrolled-image sidecars contain no timestamp, so those dates are unavailable. The source is now integrated into product `main`. The 8 probes cover the base set only. The captures remain English-only, DPR 1 browser emulation, with empty or locked views; populated rows, unlocked behavior, physical display scale, and full matrix acceptance are not established.
+
+The exact root `build.bat` passed with `Built 76 verified original captures into dist/.`. Gallery `main` dew, live deployment, anonymous image readback, and About homepage readback remain pending. Status Hub publication is unavailable because this runtime has no configured ingest credential.
+

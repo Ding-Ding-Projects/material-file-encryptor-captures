@@ -45,3 +45,9 @@ All 34 original PNGs were visually inspected, decoded, and checked against recom
 The focus-after images show the focus outline more clearly at the sides and bottom after changing the outline offset, but the table header still covers its top segment. The full focus ring is not yet visible. The candidate source is not on `main`, and the images are labeled accordingly.
 
 The route used a packaged runtime and an isolated CDP target. Viewport and DPR 1 values are browser emulation, not physical display scaling. No native HWND screenshot, populated rows, unlocked drive, Cantonese, or full language/theme/scale acceptance is established.
+
+## Full-ring keyboard-focus captures
+
+Twelve original PNGs are bound to packaged product source [`56c61a606e28a5c12968eef567a52fc2ad035ebb`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/56c61a606e28a5c12968eef567a52fc2ad035ebb), now integrated into product `main`. The earlier 34 images remain tied to their original source snapshots and are not relabeled. All twelve new images were inspected and hash-matched. Eight have validated UTC capture timestamps; four scrolled images have no validated per-image timestamp.
+
+The views are English-only, light/dark, DPR 1 browser emulation at 1180 × 850 and 880 × 650 CSS pixels. They show empty or locked History and Recycle Bin views. The scrolled narrow views show the complete focus outline. Eight probes validated the base capture set only. Physical display scaling, populated rows, unlocked behavior, native-window capture, Cantonese, and full matrix acceptance remain unverified. The consolidated verification summary is stored in the source run; only sanitized per-image facts are published in the inventory.
