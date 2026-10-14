@@ -953,6 +953,1264 @@
         "nativeProductAcceptance": false,
         "fullMatrixAcceptance": false
       }
+    },
+    {
+      "id": "mfe-composition-baseline-1180x850-dark-drive-focus",
+      "file": "mfe-composition-baseline-1180x850-dark-drive-focus.png",
+      "sha256": "f5b39a7c57ac28726b27d990ee0eb7b6a719b17a51282a2cc7b34c5c711003cc",
+      "screen": "drive",
+      "state": "pointer-focus",
+      "title": "Dark drive composition review",
+      "alt": "Dark drive view in the packaged application at 1180 by 850 CSS pixels, without a keyboard-focus state.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-1180x850-dark-drive-keyboard-focus",
+      "file": "mfe-composition-baseline-1180x850-dark-drive-keyboard-focus.png",
+      "sha256": "b630de922851505188b9b103ccea6f4c6619e8539ee63bf657786d81da9ed29e",
+      "screen": "drive",
+      "state": "keyboard-focus",
+      "title": "Dark drive composition review",
+      "alt": "Dark drive view in the packaged application at 1180 by 850 CSS pixels, with keyboard focus.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-1180x850-dark-history-focus",
+      "file": "mfe-composition-baseline-1180x850-dark-history-focus.png",
+      "sha256": "5ec3514c2bc0f90881b0795f5364c1302996a8be54fc10ee6cacd4dec977711e",
+      "screen": "history",
+      "state": "pointer-focus",
+      "title": "Dark history composition review",
+      "alt": "Dark history view in the packaged application at 1180 by 850 CSS pixels, without a keyboard-focus state.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-1180x850-dark-history-keyboard-focus",
+      "file": "mfe-composition-baseline-1180x850-dark-history-keyboard-focus.png",
+      "sha256": "b2975f5d44ef52e584dc98ef7285c824a3c6e7d1cde0d69bdc7d0744df83f788",
+      "screen": "history",
+      "state": "keyboard-focus",
+      "title": "Dark history composition review",
+      "alt": "Dark history view in the packaged application at 1180 by 850 CSS pixels, with keyboard focus.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-1180x850-dark-recycle-focus",
+      "file": "mfe-composition-baseline-1180x850-dark-recycle-focus.png",
+      "sha256": "8c2ec7651881e583e8bc7efec053a7f82a1b454ebbd0d5ecb99eb2fd9de6baf4",
+      "screen": "recycle-bin",
+      "state": "pointer-focus",
+      "title": "Dark recycle-bin composition review",
+      "alt": "Dark recycle-bin view in the packaged application at 1180 by 850 CSS pixels, without a keyboard-focus state.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-1180x850-dark-recycle-keyboard-focus",
+      "file": "mfe-composition-baseline-1180x850-dark-recycle-keyboard-focus.png",
+      "sha256": "93c2e5dbae3734ce5ca209d0b4adc3ba1acd48a05311401eb582acfe6085f583",
+      "screen": "recycle-bin",
+      "state": "keyboard-focus",
+      "title": "Dark recycle-bin composition review",
+      "alt": "Dark recycle-bin view in the packaged application at 1180 by 850 CSS pixels, with keyboard focus.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-1180x850-light-drive-focus",
+      "file": "mfe-composition-baseline-1180x850-light-drive-focus.png",
+      "sha256": "f156652b7d02690f58c8b56c2fded60759acb6802bf0ba3c08e4cb10362bde90",
+      "screen": "drive",
+      "state": "pointer-focus",
+      "title": "Light drive composition review",
+      "alt": "Light drive view in the packaged application at 1180 by 850 CSS pixels, without a keyboard-focus state.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-1180x850-light-drive-keyboard-focus",
+      "file": "mfe-composition-baseline-1180x850-light-drive-keyboard-focus.png",
+      "sha256": "c1e03bf7535734b3afc613937038e54ce41de69fc81cdc4fbcb024633adb65a5",
+      "screen": "drive",
+      "state": "keyboard-focus",
+      "title": "Light drive composition review",
+      "alt": "Light drive view in the packaged application at 1180 by 850 CSS pixels, with keyboard focus.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-1180x850-light-history-focus",
+      "file": "mfe-composition-baseline-1180x850-light-history-focus.png",
+      "sha256": "3220b8da0d0ece292abead75b980e2a283d53ec075253adb8f86c4d6303fd96c",
+      "screen": "history",
+      "state": "pointer-focus",
+      "title": "Light history composition review",
+      "alt": "Light history view in the packaged application at 1180 by 850 CSS pixels, without a keyboard-focus state.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-1180x850-light-history-keyboard-focus",
+      "file": "mfe-composition-baseline-1180x850-light-history-keyboard-focus.png",
+      "sha256": "27e4ac0460a958d8b4d2079df797d09879cb23756a5d8cde0c8152df9b1e5e5a",
+      "screen": "history",
+      "state": "keyboard-focus",
+      "title": "Light history composition review",
+      "alt": "Light history view in the packaged application at 1180 by 850 CSS pixels, with keyboard focus.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-1180x850-light-recycle-focus",
+      "file": "mfe-composition-baseline-1180x850-light-recycle-focus.png",
+      "sha256": "096f71c9a73950ac37d1daedef1028125541193be2448799f592191cd90a0642",
+      "screen": "recycle-bin",
+      "state": "pointer-focus",
+      "title": "Light recycle-bin composition review",
+      "alt": "Light recycle-bin view in the packaged application at 1180 by 850 CSS pixels, without a keyboard-focus state.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-1180x850-light-recycle-keyboard-focus",
+      "file": "mfe-composition-baseline-1180x850-light-recycle-keyboard-focus.png",
+      "sha256": "7f6f5e3cb4e064c28649081e58e39950690e4b5dcf1d09f32248a684bf0e4e6a",
+      "screen": "recycle-bin",
+      "state": "keyboard-focus",
+      "title": "Light recycle-bin composition review",
+      "alt": "Light recycle-bin view in the packaged application at 1180 by 850 CSS pixels, with keyboard focus.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-880x650-dark-drive-focus",
+      "file": "mfe-composition-baseline-880x650-dark-drive-focus.png",
+      "sha256": "d9d83526372ef86967b0f33a1ff01b9a90a222c3593a47c27f5bb6129f9ae74d",
+      "screen": "drive",
+      "state": "pointer-focus",
+      "title": "Dark drive composition review",
+      "alt": "Dark drive view in the packaged application at 880 by 650 CSS pixels, without a keyboard-focus state.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 880,
+        "height": 650
+      },
+      "scale": 1,
+      "image": {
+        "width": 880,
+        "height": 650
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-880x650-dark-drive-keyboard-focus",
+      "file": "mfe-composition-baseline-880x650-dark-drive-keyboard-focus.png",
+      "sha256": "e285883ba46b39861059f598a50c706097d82588013edf388a7bda9f5a48b789",
+      "screen": "drive",
+      "state": "keyboard-focus",
+      "title": "Dark drive composition review",
+      "alt": "Dark drive view in the packaged application at 880 by 650 CSS pixels, with keyboard focus.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 880,
+        "height": 650
+      },
+      "scale": 1,
+      "image": {
+        "width": 880,
+        "height": 650
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-880x650-dark-history-focus",
+      "file": "mfe-composition-baseline-880x650-dark-history-focus.png",
+      "sha256": "ceb30581fe27c061bcc714dfd1bae2c257a4cfbb5aaa3f1d64a14487ce03b650",
+      "screen": "history",
+      "state": "pointer-focus",
+      "title": "Dark history composition review",
+      "alt": "Dark history view in the packaged application at 880 by 650 CSS pixels, without a keyboard-focus state.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 880,
+        "height": 650
+      },
+      "scale": 1,
+      "image": {
+        "width": 880,
+        "height": 650
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-880x650-dark-history-keyboard-focus",
+      "file": "mfe-composition-baseline-880x650-dark-history-keyboard-focus.png",
+      "sha256": "bbda2f67e21ee16dc40f95ac0b769dbce7a7c0835e09e50870bfafc9622597ff",
+      "screen": "history",
+      "state": "keyboard-focus",
+      "title": "Dark history composition review",
+      "alt": "Dark history view in the packaged application at 880 by 650 CSS pixels, with keyboard focus.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 880,
+        "height": 650
+      },
+      "scale": 1,
+      "image": {
+        "width": 880,
+        "height": 650
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-880x650-dark-recycle-focus",
+      "file": "mfe-composition-baseline-880x650-dark-recycle-focus.png",
+      "sha256": "ec289c6a973eb4ba946da61c812ff948b22b3a087701c36e803c3f733dc08640",
+      "screen": "recycle-bin",
+      "state": "pointer-focus",
+      "title": "Dark recycle-bin composition review",
+      "alt": "Dark recycle-bin view in the packaged application at 880 by 650 CSS pixels, without a keyboard-focus state.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 880,
+        "height": 650
+      },
+      "scale": 1,
+      "image": {
+        "width": 880,
+        "height": 650
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-880x650-dark-recycle-keyboard-focus",
+      "file": "mfe-composition-baseline-880x650-dark-recycle-keyboard-focus.png",
+      "sha256": "faf1b7088fad71c0de271795cf7c22a7b46eecde04f1b5c1fcac5a0ec422fdf9",
+      "screen": "recycle-bin",
+      "state": "keyboard-focus",
+      "title": "Dark recycle-bin composition review",
+      "alt": "Dark recycle-bin view in the packaged application at 880 by 650 CSS pixels, with keyboard focus.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 880,
+        "height": 650
+      },
+      "scale": 1,
+      "image": {
+        "width": 880,
+        "height": 650
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-880x650-light-drive-focus",
+      "file": "mfe-composition-baseline-880x650-light-drive-focus.png",
+      "sha256": "4e3239e141eb454b0b7717a72d0c0ddd6577ec31d56fe259c45e3c2609477065",
+      "screen": "drive",
+      "state": "pointer-focus",
+      "title": "Light drive composition review",
+      "alt": "Light drive view in the packaged application at 880 by 650 CSS pixels, without a keyboard-focus state.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 880,
+        "height": 650
+      },
+      "scale": 1,
+      "image": {
+        "width": 880,
+        "height": 650
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-880x650-light-drive-keyboard-focus",
+      "file": "mfe-composition-baseline-880x650-light-drive-keyboard-focus.png",
+      "sha256": "bfa91afcb3e211cfdc9fe64632ac541ea229211849dca86acbbe16c44f629756",
+      "screen": "drive",
+      "state": "keyboard-focus",
+      "title": "Light drive composition review",
+      "alt": "Light drive view in the packaged application at 880 by 650 CSS pixels, with keyboard focus.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 880,
+        "height": 650
+      },
+      "scale": 1,
+      "image": {
+        "width": 880,
+        "height": 650
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-880x650-light-history-focus",
+      "file": "mfe-composition-baseline-880x650-light-history-focus.png",
+      "sha256": "b229a48daa0b298eb7cac99ac79435f44022cd453285d2c27abf315438860df3",
+      "screen": "history",
+      "state": "pointer-focus",
+      "title": "Light history composition review",
+      "alt": "Light history view in the packaged application at 880 by 650 CSS pixels, without a keyboard-focus state.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 880,
+        "height": 650
+      },
+      "scale": 1,
+      "image": {
+        "width": 880,
+        "height": 650
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-880x650-light-history-keyboard-focus",
+      "file": "mfe-composition-baseline-880x650-light-history-keyboard-focus.png",
+      "sha256": "1c3dc4cd92007a6e83bbbb7d6012aaada539cbead89275aa7ced3da5b8475aac",
+      "screen": "history",
+      "state": "keyboard-focus",
+      "title": "Light history composition review",
+      "alt": "Light history view in the packaged application at 880 by 650 CSS pixels, with keyboard focus.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 880,
+        "height": 650
+      },
+      "scale": 1,
+      "image": {
+        "width": 880,
+        "height": 650
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-880x650-light-recycle-focus",
+      "file": "mfe-composition-baseline-880x650-light-recycle-focus.png",
+      "sha256": "af9986c0f69808707cafabc313eb522c477f3250447b0b1b2cf69ec915191e2d",
+      "screen": "recycle-bin",
+      "state": "pointer-focus",
+      "title": "Light recycle-bin composition review",
+      "alt": "Light recycle-bin view in the packaged application at 880 by 650 CSS pixels, without a keyboard-focus state.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 880,
+        "height": 650
+      },
+      "scale": 1,
+      "image": {
+        "width": 880,
+        "height": 650
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-880x650-light-recycle-keyboard-focus",
+      "file": "mfe-composition-baseline-880x650-light-recycle-keyboard-focus.png",
+      "sha256": "af9986c0f69808707cafabc313eb522c477f3250447b0b1b2cf69ec915191e2d",
+      "screen": "recycle-bin",
+      "state": "keyboard-focus",
+      "title": "Light recycle-bin composition review",
+      "alt": "Light recycle-bin view in the packaged application at 880 by 650 CSS pixels, with keyboard focus.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 880,
+        "height": 650
+      },
+      "scale": 1,
+      "image": {
+        "width": 880,
+        "height": 650
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-initial",
+      "file": "mfe-composition-baseline-initial.png",
+      "sha256": "6ffa92b9d955b3ea9debe959506ebc0c4219d778cb45096db7d05dc3fa1d3fd3",
+      "screen": "drive",
+      "state": "initial-locked-drive",
+      "title": "Light drive composition review",
+      "alt": "Light drive view in the packaged application at 1180 by 850 CSS pixels, without a keyboard-focus state.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-baseline-keyboard-initial",
+      "file": "mfe-composition-baseline-keyboard-initial.png",
+      "sha256": "7fb1aac55ff5afa9d3844c02ef39dad1988897234b5ecedbd5845e0a4908707c",
+      "screen": "recycle-bin",
+      "state": "initial-recycle-bin-keyboard-focus",
+      "title": "Light recycle-bin composition review",
+      "alt": "Light recycle-bin view in the packaged application at 1180 by 850 CSS pixels, with keyboard focus.",
+      "description": "Visual review of the packaged application at the recorded CSS viewport with browser DPR 1. This source snapshot is not represented as current main. Empty or locked state only; no populated drive records or unlocked-drive behavior are shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": null,
+      "timeZone": null,
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+      "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675",
+      "captureRoute": "packaged runtime via direct cheap CLI, HWND ownership proof, isolated CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-focus-after-1180x850-dark-history-keyboard-focus",
+      "file": "mfe-composition-focus-after-1180x850-dark-history-keyboard-focus.png",
+      "sha256": "df9537b524728c5e77e4c410b1c4b0021d9c08b5b73056c35dbc7e16ec939103",
+      "screen": "history",
+      "state": "keyboard-focus-after-adjustment-candidate",
+      "title": "Dark history keyboard focus after outline-offset adjustment",
+      "alt": "Dark history view in the packaged application at 1180 by 850 CSS pixels, with keyboard focus.",
+      "description": "Unmerged candidate snapshot only. The source change is not on main. The visible focus outline improves at the sides and bottom, while the top segment remains covered by the table header. Browser DPR 1 emulation is not physical display-scale evidence. Empty locked view only; populated rows and unlocked-drive behavior are not shown.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": "2026-10-14T01:05:40.821Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "f77845127b457fb30692346aae591d9a3501237d",
+      "sourceArtifactSha256": "79ed771c19b7fe2a2c2750a23e91a2d23041489b4793d25ad1e46c6e6124d8ed",
+      "captureRoute": "isolated packaged runtime via direct cheap CLI and CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-focus-after-1180x850-dark-recycle-keyboard-focus",
+      "file": "mfe-composition-focus-after-1180x850-dark-recycle-keyboard-focus.png",
+      "sha256": "65796814f041c5d8b72cf95f82d789859f2acafdd7dcc412b278a7dd8d529fbd",
+      "screen": "recycle-bin",
+      "state": "keyboard-focus-after-adjustment-candidate",
+      "title": "Dark recycle-bin keyboard focus after outline-offset adjustment",
+      "alt": "Dark recycle-bin view in the packaged application at 1180 by 850 CSS pixels, with keyboard focus.",
+      "description": "Unmerged candidate snapshot only. The source change is not on main. The visible focus outline improves at the sides and bottom, while the top segment remains covered by the table header. Browser DPR 1 emulation is not physical display-scale evidence. Empty locked view only; populated rows and unlocked-drive behavior are not shown.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": "2026-10-14T01:05:41.981Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "f77845127b457fb30692346aae591d9a3501237d",
+      "sourceArtifactSha256": "79ed771c19b7fe2a2c2750a23e91a2d23041489b4793d25ad1e46c6e6124d8ed",
+      "captureRoute": "isolated packaged runtime via direct cheap CLI and CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-focus-after-1180x850-light-history-keyboard-focus",
+      "file": "mfe-composition-focus-after-1180x850-light-history-keyboard-focus.png",
+      "sha256": "46aa4659d69eacc187886c3865a3a5afa4f7e0bdf30fd5e15fe265de1cc6bba8",
+      "screen": "history",
+      "state": "keyboard-focus-after-adjustment-candidate",
+      "title": "Light history keyboard focus after outline-offset adjustment",
+      "alt": "Light history view in the packaged application at 1180 by 850 CSS pixels, with keyboard focus.",
+      "description": "Unmerged candidate snapshot only. The source change is not on main. The visible focus outline improves at the sides and bottom, while the top segment remains covered by the table header. Browser DPR 1 emulation is not physical display-scale evidence. Empty locked view only; populated rows and unlocked-drive behavior are not shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": "2026-10-14T01:05:37.666Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "f77845127b457fb30692346aae591d9a3501237d",
+      "sourceArtifactSha256": "79ed771c19b7fe2a2c2750a23e91a2d23041489b4793d25ad1e46c6e6124d8ed",
+      "captureRoute": "isolated packaged runtime via direct cheap CLI and CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-focus-after-1180x850-light-recycle-keyboard-focus",
+      "file": "mfe-composition-focus-after-1180x850-light-recycle-keyboard-focus.png",
+      "sha256": "0b5d01f9092dc624f7ba0ef3d55bed94b3eca76020f42b19680e0b99133e599a",
+      "screen": "recycle-bin",
+      "state": "keyboard-focus-after-adjustment-candidate",
+      "title": "Light recycle-bin keyboard focus after outline-offset adjustment",
+      "alt": "Light recycle-bin view in the packaged application at 1180 by 850 CSS pixels, with keyboard focus.",
+      "description": "Unmerged candidate snapshot only. The source change is not on main. The visible focus outline improves at the sides and bottom, while the top segment remains covered by the table header. Browser DPR 1 emulation is not physical display-scale evidence. Empty locked view only; populated rows and unlocked-drive behavior are not shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 1180,
+        "height": 850
+      },
+      "scale": 1,
+      "image": {
+        "width": 1180,
+        "height": 850
+      },
+      "capturedAt": "2026-10-14T01:05:38.919Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "f77845127b457fb30692346aae591d9a3501237d",
+      "sourceArtifactSha256": "79ed771c19b7fe2a2c2750a23e91a2d23041489b4793d25ad1e46c6e6124d8ed",
+      "captureRoute": "isolated packaged runtime via direct cheap CLI and CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-focus-after-880x650-dark-history-keyboard-focus",
+      "file": "mfe-composition-focus-after-880x650-dark-history-keyboard-focus.png",
+      "sha256": "87750f1b3c5690939dabeaa2c47648b33b0546274cb5f2803b6d247108b9b10d",
+      "screen": "history",
+      "state": "keyboard-focus-after-adjustment-candidate",
+      "title": "Dark history keyboard focus after outline-offset adjustment",
+      "alt": "Dark history view in the packaged application at 880 by 650 CSS pixels, with keyboard focus.",
+      "description": "Unmerged candidate snapshot only. The source change is not on main. The visible focus outline improves at the sides and bottom, while the top segment remains covered by the table header. Browser DPR 1 emulation is not physical display-scale evidence. Empty locked view only; populated rows and unlocked-drive behavior are not shown.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 880,
+        "height": 650
+      },
+      "scale": 1,
+      "image": {
+        "width": 880,
+        "height": 650
+      },
+      "capturedAt": "2026-10-14T01:05:46.470Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "f77845127b457fb30692346aae591d9a3501237d",
+      "sourceArtifactSha256": "79ed771c19b7fe2a2c2750a23e91a2d23041489b4793d25ad1e46c6e6124d8ed",
+      "captureRoute": "isolated packaged runtime via direct cheap CLI and CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-focus-after-880x650-dark-recycle-keyboard-focus",
+      "file": "mfe-composition-focus-after-880x650-dark-recycle-keyboard-focus.png",
+      "sha256": "8c0916ae3ad042aa8aace605f4bfe5f513c68ac83621525433bc9715465ab70a",
+      "screen": "recycle-bin",
+      "state": "keyboard-focus-after-adjustment-candidate",
+      "title": "Dark recycle-bin keyboard focus after outline-offset adjustment",
+      "alt": "Dark recycle-bin view in the packaged application at 880 by 650 CSS pixels, with keyboard focus.",
+      "description": "Unmerged candidate snapshot only. The source change is not on main. The visible focus outline improves at the sides and bottom, while the top segment remains covered by the table header. Browser DPR 1 emulation is not physical display-scale evidence. Empty locked view only; populated rows and unlocked-drive behavior are not shown.",
+      "language": "English",
+      "theme": "dark",
+      "viewport": {
+        "width": 880,
+        "height": 650
+      },
+      "scale": 1,
+      "image": {
+        "width": 880,
+        "height": 650
+      },
+      "capturedAt": "2026-10-14T01:05:47.610Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "f77845127b457fb30692346aae591d9a3501237d",
+      "sourceArtifactSha256": "79ed771c19b7fe2a2c2750a23e91a2d23041489b4793d25ad1e46c6e6124d8ed",
+      "captureRoute": "isolated packaged runtime via direct cheap CLI and CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-focus-after-880x650-light-history-keyboard-focus",
+      "file": "mfe-composition-focus-after-880x650-light-history-keyboard-focus.png",
+      "sha256": "88c1432996a6b06ef17e038f6244a89c9d2fa7a50e466bf575f0d45c3a51a487",
+      "screen": "history",
+      "state": "keyboard-focus-after-adjustment-candidate",
+      "title": "Light history keyboard focus after outline-offset adjustment",
+      "alt": "Light history view in the packaged application at 880 by 650 CSS pixels, with keyboard focus.",
+      "description": "Unmerged candidate snapshot only. The source change is not on main. The visible focus outline improves at the sides and bottom, while the top segment remains covered by the table header. Browser DPR 1 emulation is not physical display-scale evidence. Empty locked view only; populated rows and unlocked-drive behavior are not shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 880,
+        "height": 650
+      },
+      "scale": 1,
+      "image": {
+        "width": 880,
+        "height": 650
+      },
+      "capturedAt": "2026-10-14T01:05:43.685Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "f77845127b457fb30692346aae591d9a3501237d",
+      "sourceArtifactSha256": "79ed771c19b7fe2a2c2750a23e91a2d23041489b4793d25ad1e46c6e6124d8ed",
+      "captureRoute": "isolated packaged runtime via direct cheap CLI and CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
+    },
+    {
+      "id": "mfe-composition-focus-after-880x650-light-recycle-keyboard-focus",
+      "file": "mfe-composition-focus-after-880x650-light-recycle-keyboard-focus.png",
+      "sha256": "406cf5e7c83072b9772a96506f800f5b34a0aa5511cbbea1a6543508b8f7ddb0",
+      "screen": "recycle-bin",
+      "state": "keyboard-focus-after-adjustment-candidate",
+      "title": "Light recycle-bin keyboard focus after outline-offset adjustment",
+      "alt": "Light recycle-bin view in the packaged application at 880 by 650 CSS pixels, with keyboard focus.",
+      "description": "Unmerged candidate snapshot only. The source change is not on main. The visible focus outline improves at the sides and bottom, while the top segment remains covered by the table header. Browser DPR 1 emulation is not physical display-scale evidence. Empty locked view only; populated rows and unlocked-drive behavior are not shown.",
+      "language": "English",
+      "theme": "light",
+      "viewport": {
+        "width": 880,
+        "height": 650
+      },
+      "scale": 1,
+      "image": {
+        "width": 880,
+        "height": 650
+      },
+      "capturedAt": "2026-10-14T01:05:44.821Z",
+      "timeZone": "UTC",
+      "sourceRepository": "https://github.com/Ding-Ding-Projects/material-file-encryptor",
+      "sourceCommit": "f77845127b457fb30692346aae591d9a3501237d",
+      "sourceArtifactSha256": "79ed771c19b7fe2a2c2750a23e91a2d23041489b4793d25ad1e46c6e6124d8ed",
+      "captureRoute": "isolated packaged runtime via direct cheap CLI and CDP capture",
+      "evidence": {
+        "sourceCommitBound": true,
+        "rawSha256Matched": true,
+        "pngDecodePassed": true,
+        "visualReviewPassed": true,
+        "pixelPrivacyReviewPassed": true,
+        "nativeWindowScreenshot": false,
+        "physicalDisplayScalingVerified": false,
+        "fullMatrixAcceptance": false
+      }
     }
   ],
   "exclusions": [
@@ -989,6 +2247,10 @@
     {
       "class": "raw capture receipts and private task evidence",
       "reason": "They can expose machine paths or private metadata and are not required to view the reviewed images."
+    },
+    {
+      "class": "generated private announcement images and raw source receipts",
+      "reason": "Private announcements and raw receipts can expose local paths or task metadata; only inspected original PNG bytes and sanitized provenance are published."
     }
   ],
   "documentationCaptureRun": {
@@ -1007,5 +2269,30 @@
     "captureDate": null,
     "captureTimeZone": null,
     "publicationBoundary": "Fourteen individually reviewed documentation-page images are shown as partial visual samples. They are not full browser-acceptance evidence."
+  },
+  "reviewedCompositionUpdate": {
+    "publishedCount": 34,
+    "sourceSnapshots": [
+      {
+        "commit": "4959f2af4a2ced2980b2a68d2ba9fb4056458e35",
+        "captureCount": 26,
+        "status": "historical candidate snapshot; not represented as current main",
+        "sourceArtifactSha256": "f68b0e4abf2ad826193b2a040917248d1ffcdd0d8892c637c22ceab77446d675"
+      },
+      {
+        "commit": "f77845127b457fb30692346aae591d9a3501237d",
+        "captureCount": 8,
+        "status": "unmerged focus-adjustment candidate; not represented as current main",
+        "sourceArtifactSha256": "79ed771c19b7fe2a2c2750a23e91a2d23041489b4793d25ad1e46c6e6124d8ed"
+      }
+    ],
+    "review": "All 34 original PNGs visually inspected from contact sheets; all source hashes recomputed, dimensions decoded, and no machine paths, credentials, or personal data were visible.",
+    "limitations": [
+      "The source snapshots are not asserted to be current main.",
+      "Only English, light and dark, DPR 1 browser emulation, and empty/locked views are represented.",
+      "No populated drive rows, unlocked-drive workflow, native HWND screenshot, physical display scaling, Cantonese, or full language/theme/scale acceptance is established.",
+      "All eight focus-after candidate captures retain a top outline segment covered by the table header.",
+      "Capture date is unavailable for the 26 baseline images; the eight candidate timestamps are retained only from their per-image receipts in UTC."
+    ]
   }
 }

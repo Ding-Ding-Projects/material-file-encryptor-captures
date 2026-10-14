@@ -1,5 +1,7 @@
 # Material File Encryptor capture gallery
 
+This gallery preserves 64 reviewed original captures, including 34 newly added packaged composition-review images from two distinct source snapshots. The eight focus-after images show an unfinished candidate change and retain the visible limitation that the outline top is covered by the table header. No claim is made that either source snapshot is current `main`.
+
 This gallery preserves four historical application captures from packaged source [`1e16dea8edb66ea5e6cf31009b0dbcc953f18d74`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/1e16dea8edb66ea5e6cf31009b0dbcc953f18d74), fourteen partial documentation-page samples bound to source [`b1564bac7cdb6677ff5d9529e65228577d406259`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/b1564bac7cdb6677ff5d9529e65228577d406259), and ten product-interface captures from source snapshot [`68ca7f15bfc286d5da960a4c4287f481755455f4`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/68ca7f15bfc286d5da960a4c4287f481755455f4). It now also includes two inspected bilingual documentation captures from source [`83e14d8627b9782d5acc12221c22ed4f0b8b2d4c`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/83e14d8627b9782d5acc12221c22ed4f0b8b2d4c). The older product-interface set has seven observed scenes and three diagnostic-only records. All dates, image hashes, route details, and limits are in the public inventory. These images do not establish native or installed-product acceptance.
 
 The existing public gallery is hosted on GitHub Pages at https://ding-ding-projects.github.io/material-file-encryptor-captures/. The earlier frozen local source object contains 30 original captures, including the two source-83 documentation images; the exact root build passed against that frozen source. The updated deployment, anonymous delivery of the new images, and repository About homepage readback for this update are pending.
@@ -12,6 +14,16 @@ All images are original PNG bytes. Their hashes, source commits, dimensions, dis
 - [Recycle Bin with a recoverable synthetic file](captures/recycle-preview.png)
 - [Explicit descendant restore dialog](captures/descendant-preview.png)
 - [Dark appearance settings](captures/dark-settings-preview.png)
+
+## Packaged composition review
+
+The newest review contains 26 baseline images from source snapshot [`4959f2af4a2ced2980b2a68d2ba9fb4056458e35`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/4959f2af4a2ced2980b2a68d2ba9fb4056458e35) and eight focus-after images from the separate, unmerged candidate [`f77845127b457fb30692346aae591d9a3501237d`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/f77845127b457fb30692346aae591d9a3501237d). Both groups were visually inspected for private pixel content. The candidate improves the visible outline along the sides and bottom, while the table header still covers its top edge. It remains unfinished and is not presented as the current default-branch state.
+
+![History keyboard focus in the dark candidate view at 1180 by 850 CSS pixels](captures/mfe-composition-focus-after-1180x850-dark-history-keyboard-focus.png)
+
+![Recycle Bin keyboard focus in the light candidate view at 1180 by 850 CSS pixels](captures/mfe-composition-focus-after-1180x850-light-recycle-keyboard-focus.png)
+
+Only English and DPR 1 browser emulation are represented. The images show empty, locked views; they do not establish populated data, unlocked behavior, physical display scaling, native-window capture, or the full language, theme, and scale matrix. See the [complete inventory](captures/inventory.json) and [capture limitations](docs/gallery/captures.md#packaged-composition-and-keyboard-focus-captures).
 
 ## Current documentation guidance captures
 

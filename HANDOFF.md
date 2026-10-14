@@ -12,3 +12,11 @@ The fourteen earlier documentation samples remain partial at 14 of 48 planned co
 
 
 The unpublished local history is retained separately. This public snapshot is rooted at the previously published main commit; it does not publish the superseded local history. The earlier local build result stays historical. A fresh exact root build against the sanitized snapshot and live deployment verification remain required before current publication is claimed.
+
+## 2026-10-14 packaged composition review update
+
+The public gallery source now includes 34 additional original images: 26 baseline captures tied to source snapshot `4959f2af4a2ced2980b2a68d2ba9fb4056458e35`, and eight keyboard-focus captures tied to unmerged candidate snapshot `f77845127b457fb30692346aae591d9a3501237d`. These source snapshots are not claimed to be current `main`. All 34 originals were visually inspected for privacy, PNG-decoded, and checked by SHA-256. Their sanitized dimensions, source and package hashes, state, route, theme, viewport and candidate timestamps are in `captures/inventory.json`; the 26 baseline capture date remains unavailable.
+
+The eight focus-after views show more outline at the sides and bottom while the table header still covers the top segment. The candidate is unfinished. The 26 baseline views also show empty or locked content only. The set is English-only, light/dark, DPR 1 browser emulation; it proves no populated records, unlocked behavior, physical display scaling, native HWND screenshot, Cantonese or full matrix acceptance. No private raw receipts or local paths were copied.
+
+The exact root `build.bat` passed with `Built 64 verified original captures into dist/.`; source and Pages inventory hashes match. Main integration, remote verification and live Pages verification are pending.

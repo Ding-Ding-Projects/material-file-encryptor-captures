@@ -35,3 +35,13 @@ These captures are a historical source snapshot. Later source changes are not sh
 Four newer images visibly contain machine-profile paths and remain private. Raw capture receipts, private task evidence, generated private announcements, and local application packages or installers are not published. Tuple 14 is listed as unavailable because its PNG does not exist. The four historical public images and the ten product-interface images remain separately bound to their own source and package provenance.
 
 The gallery is a visual archive. Installation checks, release download checks, browser acceptance, and later runtime evidence have separate records.
+
+## Packaged composition and keyboard-focus captures
+
+This update adds 34 original PNG captures from two source snapshots: 26 baseline images bound to [`4959f2af4a2ced2980b2a68d2ba9fb4056458e35`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/4959f2af4a2ced2980b2a68d2ba9fb4056458e35) and eight keyboard-focus images bound to [`f77845127b457fb30692346aae591d9a3501237d`](https://github.com/Ding-Ding-Projects/material-file-encryptor/commit/f77845127b457fb30692346aae591d9a3501237d). These are source snapshots, not claims about the current `main` state. The second set shows an unfinished focus-outline adjustment.
+
+All 34 original PNGs were visually inspected, decoded, and checked against recomputed SHA-256 hashes. No machine paths, credentials, or personal data were visible. The baseline set records English, light and dark, two CSS viewports (1180 × 850 and 880 × 650), and drive, history, recycle, and keyboard-focus states. The candidate set records empty, locked History and Recycle Bin keyboard-focus views at the same viewport sizes. Capture details, per-image hashes, package hashes, and validated candidate UTC timestamps are in [`captures/inventory.json`](../../captures/inventory.json). Baseline capture dates are unavailable from per-image validated provenance.
+
+The focus-after images show the focus outline more clearly at the sides and bottom after changing the outline offset, but the table header still covers its top segment. The full focus ring is not yet visible. The candidate source is not on `main`, and the images are labeled accordingly.
+
+The route used a packaged runtime and an isolated CDP target. Viewport and DPR 1 values are browser emulation, not physical display scaling. No native HWND screenshot, populated rows, unlocked drive, Cantonese, or full language/theme/scale acceptance is established.

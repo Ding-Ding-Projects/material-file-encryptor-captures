@@ -4,6 +4,8 @@ This category records the capture sources, review boundaries, and excluded mater
 
 - [Capture provenance and limits](captures.md)
 
+The newest composition review includes 34 original package-bound images from two source snapshots. The 26-image baseline and eight-image unmerged focus-adjustment candidate have separate provenance and limitations in the capture article and inventory. All originals were visually inspected and checked for visible private data. The candidate still has a focus outline covered at the top by the table header. These images do not establish current-main acceptance.
+
 The product-interface snapshot includes ten original images from source commit `68ca7f15bfc286d5da960a4c4287f481755455f4`. Seven scenes were observed and three remain diagnostic-only. Exact states and limitations are recorded in the public inventory.
 
 There is no HTTP API in this project, so a Postman collection is not applicable.

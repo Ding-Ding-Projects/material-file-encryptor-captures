@@ -46,3 +46,12 @@
 
 
 The unpublished local history is retained separately. This public snapshot is rooted at the previously published main commit; it does not publish the superseded local history. The earlier local build result stays historical. A fresh exact root build against the sanitized snapshot and live deployment verification remain required before current publication is claimed.
+## Packaged composition review publication
+
+- [x] Inspect and hash-check all 26 baseline PNGs and eight separate focus-after candidate PNGs; preserve their original bytes and sanitized source/package metadata in the inventory.
+- [x] Clearly label the source snapshots, unmerged candidate state, remaining covered top outline segment, browser-emulation limits, hidden/empty views, and unavailable baseline capture timestamps.
+- [x] Add the reviewed original captures and representative views to the gallery source, article, README, and generated Pages output.
+- [x] Build from the exact root `build.bat`; it reports `Built 64 verified original captures into dist/.`, and the source and Pages inventory hashes match.
+- [ ] Commit and push the reviewed update to `main`, then verify the remote ref.
+- [ ] Verify the actual Pages home, internal routes, all image deliveries and hashes, and the About homepage after deployment.
+- [ ] Update the rolling issue handoff with the final source ref, deployment run, live checks, and remaining limits.
