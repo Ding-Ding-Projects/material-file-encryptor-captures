@@ -52,6 +52,6 @@ The unpublished local history is retained separately. This public snapshot is ro
 - [x] Clearly label the source snapshots, unmerged candidate state, remaining covered top outline segment, browser-emulation limits, hidden/empty views, and unavailable baseline capture timestamps.
 - [x] Add the reviewed original captures and representative views to the gallery source, article, README, and generated Pages output.
 - [x] Build from the exact root `build.bat`; it reports `Built 64 verified original captures into dist/.`, and the source and Pages inventory hashes match.
-- [ ] Commit and push the reviewed update to `main`, then verify the remote ref.
-- [ ] Verify the actual Pages home, internal routes, all image deliveries and hashes, and the About homepage after deployment.
-- [ ] Update the rolling issue handoff with the final source ref, deployment run, live checks, and remaining limits.
+- [x] Commit and push the reviewed update to `main`; `git ls-remote` confirms `98acac964e475436e5f154725be2d13399cc7fed`.
+- [x] Verify Pages deployment run `38494715820` completed for `98acac964e475436e5f154725be2d13399cc7fed`; anonymous home, docs index, capture article, provenance page, and inventory returned HTTP 200; all 64 image URLs returned HTTP 200 and match inventory SHA-256; About homepage reads exactly https://ding-ding-projects.github.io/material-file-encryptor-captures/.
+- [x] Post the final source ref, deployment run, live route and hash checks, and remaining limits to issue #1 and the existing General Discussion; close issue #1 after the evidence was verified.
